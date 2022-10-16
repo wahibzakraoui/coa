@@ -2,2362 +2,3127 @@
     "country_code": "ma",
     "name": "Maroc - Plan Comptable General avec code",
     "tree": {
-        "1 - COMPTES DE FINANCEMENT PERMANENT": {
-            "account_number": 1,
-            "is_root": 1,
-            "is_group": 1,
-            "CAPITAUX PROPRES": {
-                "account_number": 11,
-                "Capital social ou personnel": {
-                    "account_number": 111,
-                    "Capital social": {
-                        "account_number": 1111
-                    },
-                    "Fonds de dotation": {
-                        "account_number": 1112
-                    },
-                    "Capital personnel": {
-                        "account_number": 1117,
-                        "Capital individuel": {
-                            "account_number": 11171
-                        },
-                        "Compte de l'exploitant": {
-                            "account_number": 11175
-                        }
-                    },
-                    "Actionnaires, capital souscrit-non appel\u00c3\u00a9": {
-                        "account_number": 1119
-                    }
-                },
-                "Primes d'\u00c3\u00a9mission, de fusion et d'apport": {
-                    "account_number": 112,
-                    "Primes d'\u00c3\u00a9mission": {
-                        "account_number": 1121
-                    },
-                    "Primes de fusion": {
-                        "account_number": 1122
-                    },
-                    "Primes d'apport": {
-                        "account_number": 1123
-                    }
-                },
-                "Ecarts de r\u00c3\u00a9\u00c3\u00a9valuation": {
-                    "account_number": 113,
-                    "Ecarts de r\u00c3\u00a9\u00c3\u00a9valuation": {
-                        "account_number": 1130
-                    }
-                },
-                "R\u00c3\u00a9serve l\u00c3\u00a9gale": {
-                    "account_number": 114,
-                    "R\u00c3\u00a9serve l\u00c3\u00a9gale": {
-                        "account_number": 1140
-                    }
-                },
-                "Autres r\u00c3\u00a9serves": {
-                    "account_number": 115,
-                    "R\u00c3\u00a9serves statutaires ou contractuelles": {
-                        "account_number": 1151
-                    },
-                    "R\u00c3\u00a9serves facultatives": {
-                        "account_number": 1152
-                    },
-                    "R\u00c3\u00a9serves r\u00c3\u00a9glement\u00c3\u00a9es": {
-                        "account_number": 1155
-                    }
-                },
-                "Report \u00c3\u00a0 nouveau": {
-                    "account_number": 116,
-                    "Report \u00c3\u00a0 nouveau (solde cr\u00c3\u00a9diteur)": {
-                        "account_number": 1161
-                    },
-                    "Report \u00c3\u00a0 nouveau (solde d\u00c3\u00a9biteur)": {
-                        "account_number": 1169
-                    }
-                },
-                "R\u00c3\u00a9sultats nets en instance d'affectation": {
-                    "account_number": 118,
-                    "R\u00c3\u00a9sultats nets en instance d'affectation (solde cr\u00c3\u00a9diteur)": {
-                        "account_number": 1181
-                    },
-                    "R\u00c3\u00a9sultats nets en instance d'affectation (solde d\u00c3\u00a9biteur)": {
-                        "account_number": 1189
-                    }
-                },
-                "R\u00c3\u00a9sultat net de l'exercice": {
-                    "account_number": 119,
-                    "R\u00c3\u00a9sultat net de l'exercice (solde cr\u00c3\u00a9diteur)": {
-                        "account_number": 1191
-                    },
-                    "R\u00c3\u00a9sultat net de l'exercice (solde d\u00c3\u00a9biteur)": {
-                        "account_number": 1199
-                    }
-                }
-            },
-            "CAPITAUX PROPRES ASSIMILES": {
-                "account_number": 13,
-                "Subventions d'investissement": {
-                    "account_number": 131,
-                    "Subventions d'investissement re\u00c3\u00a7ues": {
-                        "account_number": 1311
-                    },
-                    "Subventions d'investissement inscrites au CPC": {
-                        "account_number": 1319
-                    }
-                },
-                "Provisions r\u00c3\u00a9glement\u00c3\u00a9es": {
-                    "account_number": 135,
-                    "Provisions pour amortissements d\u00c3\u00a9rogatoires": {
-                        "account_number": 1351
-                    },
-                    "Provisions pour plus-values en instance d'imposition": {
-                        "account_number": 1352
-                    },
-                    "Provisions pour investissements": {
-                        "account_number": 1354
-                    },
-                    "Provisions pour reconstitution des gisements": {
-                        "account_number": 1355
-                    },
-                    "Provisions pour acquisition et construction de logements": {
-                        "account_number": 1356
-                    },
-                    "Autres provisions r\u00c3\u00a9glement\u00c3\u00a9es": {
-                        "account_number": 1358
-                    }
-                }
-            },
-            "DETTES DE FINANCEMENT": {
-                "account_number": 14,
-                "Emprunts obligataires": {
-                    "account_number": 141,
-                    "Emprunts obligataires": {
-                        "account_number": 1410
-                    }
-                },
-                "Autres dettes de financement": {
-                    "account_number": 148,
-                    "Emprunts aupr\u00c3\u00a8s des \u00c3\u00a9tablissements de cr\u00c3\u00a9dit": {
-                        "account_number": 1481
-                    },
-                    "Avances de l'Etat": {
-                        "account_number": 1482
-                    },
-                    "Dettes rattach\u00c3\u00a9es \u00c3\u00a0 des participations": {
-                        "account_number": 1483
-                    },
-                    "Billets de fonds": {
-                        "account_number": 1484
-                    },
-                    "Avances re\u00c3\u00a7ues et comptes courants bloqu\u00c3\u00a9s": {
-                        "account_number": 1485
-                    },
-                    "Fournisseurs d'immobilisation": {
-                        "account_number": 1486
-                    },
-                    "D\u00c3\u00a9p\u00c3\u00b4ts et cautionnements re\u00c3\u00a7ues": {
-                        "account_number": 1487
-                    },
-                    "Dettes de financement diverses": {
-                        "account_number": 1488
-                    }
-                }
-            },
-            "provisions durables pour risques et charges": {
-                "account_number": 15,
-                "Provisions pour risques": {
-                    "account_number": 151,
-                    "Provisions pour litiges": {
-                        "account_number": 1511
-                    },
-                    "Provisions pour garanties donn\u00c3\u00a9es aux clients": {
-                        "account_number": 1512
-                    },
-                    "Provisions pour propre assureur": {
-                        "account_number": 1513
-                    },
-                    "Provision pour pertes sur march\u00c3\u00a9s \u00c3\u00a0 terme": {
-                        "account_number": 1514
-                    },
-                    "Provisions pour amendes, double droits, p\u00c3\u00a9nalit\u00c3\u00a9s": {
-                        "account_number": 1515
-                    },
-                    "Provisions pour pertes de change": {
-                        "account_number": 1516
-                    },
-                    "Autres provisions pour risques": {
-                        "account_number": 1518
-                    }
-                },
-                "Provisions pour charges": {
-                    "account_number": 155,
-                    "Provisions pour imp\u00c3\u00b4ts": {
-                        "account_number": 1551
-                    },
-                    "Provisions pour pensions de retraite et obligations similaires": {
-                        "account_number": 1552
-                    },
-                    "Provisions pour charges \u00c3\u00a0 r\u00c3\u00a9partir sur plusieurs exercices": {
-                        "account_number": 1555
-                    },
-                    "Autres provisions pour charges": {
-                        "account_number": 1558
-                    }
-                }
-            },
-            "COMPTES DE LIAISON DES ETABLISSEMENTS ET SUCCURSALES": {
-                "account_number": 16,
-                "Comptes de liaison des \u00c3\u00a9tablissements et succursales": {
-                    "account_number": 160,
-                    "Comptes de liaison du si\u00c3\u00a8ge": {
-                        "account_number": 1601
-                    },
-                    "Comptes de liaison des \u00c3\u00a9tablissements": {
-                        "account_number": 1605
-                    }
-                }
-            },
-            "Ecarts de conversion - Passif": {
-                "account_number": 17,
-                "Augmentation des cr\u00c3\u00a9ances immobilis\u00c3\u00a9es": {
-                    "account_number": 171,
-                    "Augmentation des cr\u00c3\u00a9ances immobilis\u00c3\u00a9es": {
-                        "account_number": 1710
-                    }
-                },
-                "Diminution des dettes de financement": {
-                    "account_number": 172,
-                    "Diminution des dettes de financement": {
-                        "account_number": 1720
-                    }
-                }
-            }
-        },
         "2 - COMPTES D'ACTIF IMMOBILISE": {
             "account_number": 2,
-            "is_root": 1,
+            "root_type": "Asset",
             "is_group": 1,
             "IMMOBILISATIONS EN NON-VALEURS": {
                 "account_number": 21,
+                "is_group": 1,
                 "Frais pr\u00c3\u00a9liminaires": {
                     "account_number": 211,
+                    "is_group": 1,
                     "Frais de constitution": {
-                        "account_number": 2111
+                        "account_number": 2111,
+                        "is_group": 0
                     },
                     "Frais pr\u00c3\u00a9alables au d\u00c3\u00a9marrage": {
-                        "account_number": 2112
+                        "account_number": 2112,
+                        "is_group": 0
                     },
                     "Frais d'augmentation du capital": {
-                        "account_number": 2113
+                        "account_number": 2113,
+                        "is_group": 0
                     },
                     "Frais sur op\u00c3\u00a9rations de fusions, scissions et transformations": {
-                        "account_number": 2114
+                        "account_number": 2114,
+                        "is_group": 0
                     },
                     "Frais de prospection": {
-                        "account_number": 2116
+                        "account_number": 2116,
+                        "is_group": 0
                     },
                     "Frais de publicit\u00c3\u00a9": {
-                        "account_number": 2117
+                        "account_number": 2117,
+                        "is_group": 0
                     },
                     "Autres frais pr\u00c3\u00a9liminaires": {
-                        "account_number": 2118
+                        "account_number": 2118,
+                        "is_group": 0
                     }
                 },
                 "Charges \u00c3\u00a0 r\u00c3\u00a9partir sur plusieurs exercices": {
                     "account_number": 212,
+                    "is_group": 1,
                     "Frais d'acquisitition des immobilisations": {
-                        "account_number": 2121
+                        "account_number": 2121,
+                        "is_group": 0
                     },
                     "Frais d'\u00c3\u00a9mission des emprunts": {
-                        "account_number": 2125
+                        "account_number": 2125,
+                        "is_group": 0
                     },
                     "Autres charges \u00c3\u00a0 r\u00c3\u00a9partir": {
-                        "account_number": 2128
+                        "account_number": 2128,
+                        "is_group": 0
                     }
                 },
                 "Primes de remboursement des obligations": {
                     "account_number": 213,
+                    "is_group": 1,
                     "Primes de remboursement des obligations": {
-                        "account_number": 2130
+                        "account_number": 2130,
+                        "is_group": 0
                     }
                 }
             },
             "IMMOBILISATIONS INCORPORELLES": {
                 "account_number": 22,
+                "is_group": 1,
                 "Immobilisation en recherche et d\u00c3\u00a9veloppement": {
                     "account_number": 221,
+                    "is_group": 1,
                     "Immobilisation en recherche et d\u00c3\u00a9veloppement": {
-                        "account_number": 2210
+                        "account_number": 2210,
+                        "is_group": 0
                     }
                 },
                 "Brevets, marques, droits et valeurs similaires": {
                     "account_number": 222,
+                    "is_group": 1,
                     "Brevets, marques, droits et valeurs similaires": {
-                        "account_number": 2220
+                        "account_number": 2220,
+                        "is_group": 0
                     }
                 },
                 "Fonds commercial": {
                     "account_number": 223,
+                    "is_group": 1,
                     "Fonds commercial": {
-                        "account_number": 2230
+                        "account_number": 2230,
+                        "is_group": 0
                     }
                 },
                 "Autres immobilisations incorporelles": {
                     "account_number": 228,
+                    "is_group": 1,
                     "Autres immobilisations incorporelles": {
-                        "account_number": 2285
+                        "account_number": 2285,
+                        "is_group": 0
                     }
                 }
             },
             "IMMOBILISATIONS CORPORELLES": {
+                "account_type": "Fixed Asset",
                 "account_number": 23,
+                "is_group": 1,
                 "Terrains": {
+                    "account_type": "Fixed Asset",
                     "account_number": 231,
+                    "is_group": 1,
                     "Terrains nus": {
-                        "account_number": 2311
+                        "account_type": "Fixed Asset",
+                        "account_number": 2311,
+                        "is_group": 0
                     },
                     "Terrains am\u00c3\u00a9nag\u00c3\u00a9s": {
-                        "account_number": 2312
+                        "account_type": "Fixed Asset",
+                        "account_number": 2312,
+                        "is_group": 0
                     },
                     "Terrains b\u00c3\u00a2tis": {
-                        "account_number": 2313
+                        "account_type": "Fixed Asset",
+                        "account_number": 2313,
+                        "is_group": 0
                     },
                     "Terrains de gisement": {
-                        "account_number": 2314
+                        "account_type": "Fixed Asset",
+                        "account_number": 2314,
+                        "is_group": 0
                     },
                     "Agencements et am\u00c3\u00a9nagements de terrains": {
-                        "account_number": 2316
+                        "account_type": "Fixed Asset",
+                        "account_number": 2316,
+                        "is_group": 0
                     },
                     "Autres terrains": {
-                        "account_number": 2318
+                        "account_type": "Fixed Asset",
+                        "account_number": 2318,
+                        "is_group": 0
                     }
                 },
                 "Constructions": {
+                    "account_type": "Fixed Asset",
                     "account_number": 232,
+                    "is_group": 1,
                     "B\u00c3\u00a2timents": {
+                        "account_type": "Fixed Asset",
                         "account_number": 2321,
+                        "is_group": 1,
                         "B\u00c3\u00a2timents industriels (A,B,,,)": {
-                            "account_number": 23211
+                            "account_type": "Fixed Asset",
+                            "account_number": 23211,
+                            "is_group": 0
                         },
                         "B\u00c3\u00a2timents administratifs et commerciaux (A,B,,,)": {
-                            "account_number": 23214
+                            "account_type": "Fixed Asset",
+                            "account_number": 23214,
+                            "is_group": 0
                         },
                         "Autres b\u00c3\u00a2timents": {
-                            "account_number": 23218
+                            "account_type": "Fixed Asset",
+                            "account_number": 23218,
+                            "is_group": 0
                         }
                     },
                     "Constructions sur terrains d'autrui": {
-                        "account_number": 2323
+                        "account_type": "Fixed Asset",
+                        "account_number": 2323,
+                        "is_group": 0
                     },
                     "Ouvrages d'infrastructure": {
-                        "account_number": 2325
+                        "account_type": "Fixed Asset",
+                        "account_number": 2325,
+                        "is_group": 0
                     },
                     "Agencements et am\u00c3\u00a9nagements des constructions": {
-                        "account_number": 2327
+                        "account_type": "Fixed Asset",
+                        "account_number": 2327,
+                        "is_group": 0
                     },
                     "Autres constructions": {
-                        "account_number": 2328
+                        "account_type": "Fixed Asset",
+                        "account_number": 2328,
+                        "is_group": 0
                     }
                 },
                 "Installations techniques, mat\u00c3\u00a9riel et outillage": {
+                    "account_type": "Fixed Asset",
                     "account_number": 233,
+                    "is_group": 1,
                     "Installations techniques": {
-                        "account_number": 2331
+                        "account_type": "Fixed Asset",
+                        "account_number": 2331,
+                        "is_group": 0
                     },
                     "Mat\u00c3\u00a9riel et outillage": {
+                        "account_type": "Fixed Asset",
                         "account_number": 2332,
+                        "is_group": 1,
                         "Mat\u00c3\u00a9riel": {
-                            "account_number": 23321
+                            "account_type": "Fixed Asset",
+                            "account_number": 23321,
+                            "is_group": 0
                         },
                         "Outillage": {
-                            "account_number": 23324
+                            "account_type": "Fixed Asset",
+                            "account_number": 23324,
+                            "is_group": 0
                         }
                     },
                     "Emballages r\u00c3\u00a9cup\u00c3\u00a9rables identifiables": {
-                        "account_number": 2333
+                        "account_type": "Fixed Asset",
+                        "account_number": 2333,
+                        "is_group": 0
                     },
                     "Autres installations techniques, mat\u00c3\u00a9riel et outillage": {
-                        "account_number": 2338
+                        "account_type": "Fixed Asset",
+                        "account_number": 2338,
+                        "is_group": 0
                     }
                 },
                 "Mat\u00c3\u00a9riel de transport": {
+                    "account_type": "Fixed Asset",
                     "account_number": 234,
+                    "is_group": 1,
                     "Mat\u00c3\u00a9riel de transport": {
-                        "account_number": 2340
+                        "account_type": "Fixed Asset",
+                        "account_number": 2340,
+                        "is_group": 0
                     }
                 },
                 "Mobilier, mat\u00c3\u00a9riel de bureau et am\u00c3\u00a9nagements divers": {
+                    "account_type": "Fixed Asset",
                     "account_number": 235,
+                    "is_group": 1,
                     "Mobilier de bureau": {
-                        "account_number": 2351
+                        "account_type": "Fixed Asset",
+                        "account_number": 2351,
+                        "is_group": 0
                     },
                     "Mat\u00c3\u00a9riel de bureau": {
-                        "account_number": 2352
+                        "account_type": "Fixed Asset",
+                        "account_number": 2352,
+                        "is_group": 0
                     },
                     "Mat\u00c3\u00a9riel informatique": {
-                        "account_number": 2355
+                        "account_type": "Fixed Asset",
+                        "account_number": 2355,
+                        "is_group": 0
                     },
                     "Agencements, installations et am\u00c3\u00a9nagements divers (biens n'appartenant pas \u00c3\u00a0 l'entreprise)": {
-                        "account_number": 2356
+                        "account_type": "Fixed Asset",
+                        "account_number": 2356,
+                        "is_group": 0
                     },
                     "Autres mobilier, mat\u00c3\u00a9riel de bureau et am\u00c3\u00a9nagements divers": {
-                        "account_number": 2358
+                        "account_type": "Fixed Asset",
+                        "account_number": 2358,
+                        "is_group": 0
                     }
                 },
                 "Autres immobilisations corporelles": {
+                    "account_type": "Fixed Asset",
                     "account_number": 238,
+                    "is_group": 1,
                     "Autres immobilisations corporelles": {
-                        "account_number": 2380
+                        "account_type": "Fixed Asset",
+                        "account_number": 2380,
+                        "is_group": 0
                     }
                 },
                 "Immobilisations corporelles en cours": {
+                    "account_type": "Fixed Asset",
                     "account_number": 239,
+                    "is_group": 1,
                     "Immobilisations corporelles en cours des terrains et constructions": {
-                        "account_number": 2392
+                        "account_type": "Fixed Asset",
+                        "account_number": 2392,
+                        "is_group": 0
                     },
                     "Immobilisations corporelles en cours des installations techniques, mat\u00c3\u00a9riel et outillage": {
-                        "account_number": 2393
+                        "account_type": "Fixed Asset",
+                        "account_number": 2393,
+                        "is_group": 0
                     },
                     "Immobilisations corporelles en cours de mat\u00c3\u00a9riel de transport": {
-                        "account_number": 2394
+                        "account_type": "Fixed Asset",
+                        "account_number": 2394,
+                        "is_group": 0
                     },
                     "Immobilisations corporelles en cours de mobilier, mat\u00c3\u00a9riel de bureau et am\u00c3\u00a9nagements divers": {
-                        "account_number": 2395
+                        "account_type": "Fixed Asset",
+                        "account_number": 2395,
+                        "is_group": 0
                     },
                     "Avances et acomptes vers\u00c3\u00a9s sur commandes d'immobilisations corporelles": {
-                        "account_number": 2397
+                        "account_type": "Fixed Asset",
+                        "account_number": 2397,
+                        "is_group": 0
                     },
                     "Autres immobilisations corporelles en cours": {
-                        "account_number": 2398
+                        "account_type": "Fixed Asset",
+                        "account_number": 2398,
+                        "is_group": 0
                     }
                 }
             },
             "IMMOBILSATIONS FINANCIERES": {
                 "account_number": 25,
+                "is_group": 1,
                 "Titres de participation": {
+                    "account_type": "Receivable",
                     "account_number": 251,
+                    "is_group": 1,
                     "Titres de participation": {
-                        "account_number": 2510
+                        "account_type": "Receivable",
+                        "account_number": 2510,
+                        "is_group": 0
                     }
                 },
                 "Autres titres immobilis\u00c3\u00a9s": {
+                    "account_type": "Receivable",
                     "account_number": 258,
+                    "is_group": 1,
                     "Actions": {
-                        "account_number": 2581
+                        "account_type": "Receivable",
+                        "account_number": 2581,
+                        "is_group": 0
                     },
                     "Titres divers": {
-                        "account_number": 2588
+                        "account_type": "Receivable",
+                        "account_number": 2588,
+                        "is_group": 0
                     }
                 }
             },
             "ECARTS DE CONVERSION - ACTIF": {
                 "account_number": 27,
+                "is_group": 1,
                 "Diminution des cr\u00c3\u00a9ances immobilis\u00c3\u00a9es": {
                     "account_number": 271,
+                    "is_group": 1,
                     "Diminution des cr\u00c3\u00a9ances immobilis\u00c3\u00a9es": {
-                        "account_number": 2710
+                        "account_number": 2710,
+                        "is_group": 0
                     }
                 },
                 "Augmentation des dettes de financement": {
                     "account_number": 272,
+                    "is_group": 1,
                     "Augmentation des dettes de financement": {
-                        "account_number": 2720
+                        "account_number": 2720,
+                        "is_group": 0
                     }
                 }
             },
             "AMORTISSEMENTS DES IMMOBILISATIONS": {
+                "account_type": "Accumulated Depreciation",
                 "account_number": 28,
+                "is_group": 1,
                 "Amortissements des non-valeurs": {
+                    "account_type": "Accumulated Depreciation",
                     "account_number": 281,
+                    "is_group": 1,
                     "Amortissements des frais pr\u00c3\u00a9liminaires": {
+                        "account_type": "Accumulated Depreciation",
                         "account_number": 2811,
+                        "is_group": 1,
                         "Amortissements des frais de constitution": {
-                            "account_number": 28111
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28111,
+                            "is_group": 0
                         },
                         "Amortissements des frais pr\u00c3\u00a9liminaires au d\u00c3\u00a9marrage": {
-                            "account_number": 28112
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28112,
+                            "is_group": 0
                         },
                         "Amortissements des frais d'augmentation du capital": {
-                            "account_number": 28113
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28113,
+                            "is_group": 0
                         },
                         "Amortissements des frais sur op\u00c3\u00a9rations de fusions, scissions, et transformations": {
-                            "account_number": 28114
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28114,
+                            "is_group": 0
                         },
                         "Amortissements des frais de prospection": {
-                            "account_number": 28116
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28116,
+                            "is_group": 0
                         },
                         "Amortissements des frais de publicit\u00c3\u00a9": {
-                            "account_number": 28117
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28117,
+                            "is_group": 0
                         },
                         "Amortissements des autres frais pr\u00c3\u00a9liminaires": {
-                            "account_number": 28118
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28118,
+                            "is_group": 0
                         }
                     },
                     "Amortissements des charges \u00c3\u00a0 r\u00c3\u00a9partir": {
+                        "account_type": "Accumulated Depreciation",
                         "account_number": 2812,
+                        "is_group": 1,
                         "Amortissements des frais d'acquisition des immobilisations": {
-                            "account_number": 28121
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28121,
+                            "is_group": 0
                         },
                         "Amortissements des frais d'\u00c3\u00a9mission des emprunts": {
-                            "account_number": 28125
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28125,
+                            "is_group": 0
                         },
                         "Amortissements des autres charges \u00c3\u00a0 r\u00c3\u00a9partir": {
-                            "account_number": 28128
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28128,
+                            "is_group": 0
                         }
                     },
                     "Amortissements des primes de remboursement des obligations": {
+                        "account_type": "Accumulated Depreciation",
                         "account_number": 2813,
+                        "is_group": 0,
                         "Amortissements des agencements et am\u00c3\u00a9nagements de terrains": {
-                            "account_number": 28136
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28136,
+                            "is_group": 0
                         },
                         "Amortissements des autres terrains": {
-                            "account_number": 28138
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28138,
+                            "is_group": 0
                         }
                     }
                 },
                 "Amortissements des immobilisations incorporelles": {
+                    "account_type": "Accumulated Depreciation",
                     "account_number": 282,
+                    "is_group": 1,
                     "Amortissements de l'immobilisation en recherche et d\u00c3\u00a9veloppement": {
-                        "account_number": 2821
+                        "account_type": "Accumulated Depreciation",
+                        "account_number": 2821,
+                        "is_group": 0
                     },
                     "Amortissements des brevets, marques, droits et valeurs similaires": {
-                        "account_number": 2822
+                        "account_type": "Accumulated Depreciation",
+                        "account_number": 2822,
+                        "is_group": 0
                     },
                     "Amortissements du fonds commercial": {
-                        "account_number": 2823
+                        "account_type": "Accumulated Depreciation",
+                        "account_number": 2823,
+                        "is_group": 0
                     },
                     "Amortissements des autres immobilisations incorporelles": {
-                        "account_number": 2828
+                        "account_type": "Accumulated Depreciation",
+                        "account_number": 2828,
+                        "is_group": 0
                     }
                 },
                 "Amortissements des immobilisations corporelles": {
+                    "account_type": "Accumulated Depreciation",
                     "account_number": 283,
+                    "is_group": 1,
                     "Amortissements des terrains": {
+                        "account_type": "Accumulated Depreciation",
                         "account_number": 2831,
+                        "is_group": 1,
                         "Amortissements des terrains nus": {
-                            "account_number": 28311
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28311,
+                            "is_group": 0
                         },
                         "Amortissements des terrains am\u00c3\u00a9nag\u00c3\u00a9s": {
-                            "account_number": 28312
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28312,
+                            "is_group": 0
                         },
                         "Amortissements des terrains b\u00c3\u00a2tis": {
-                            "account_number": 28313
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28313,
+                            "is_group": 0
                         },
                         "Amortissements des terrains de gisement": {
-                            "account_number": 28314
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28314,
+                            "is_group": 0
                         }
                     },
                     "Amortissements des constructions": {
+                        "account_type": "Accumulated Depreciation",
                         "account_number": 2832,
+                        "is_group": 1,
                         "Amortissements des b\u00c3\u00a2timents": {
-                            "account_number": 28321
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28321,
+                            "is_group": 0
                         },
                         "Amortissements des constructions sur terrains d'autrui": {
-                            "account_number": 28323
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28323,
+                            "is_group": 0
                         },
                         "Amortissements des ouvrages d'infrastructure": {
-                            "account_number": 28325
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28325,
+                            "is_group": 0
                         },
                         "Amortissements des installations, agencements et am\u00c3\u00a9nagements des constructions": {
-                            "account_number": 28327
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28327,
+                            "is_group": 0
                         },
                         "Amortissements des autres constructions": {
-                            "account_number": 28328
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28328,
+                            "is_group": 0
                         }
                     },
                     "Amortissements des installations techniques, mat\u00c3\u00a9riel et outillage": {
+                        "account_type": "Accumulated Depreciation",
                         "account_number": 2833,
+                        "is_group": 1,
                         "Amortissements des installations techniques": {
-                            "account_number": 28331
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28331,
+                            "is_group": 0
                         },
                         "Amortissements du mat\u00c3\u00a9riel et outillage": {
-                            "account_number": 28332
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28332,
+                            "is_group": 0
                         },
                         "Amortissements des emballages r\u00c3\u00a9cup\u00c3\u00a9rables ident ifiables": {
-                            "account_number": 28333
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28333,
+                            "is_group": 0
                         },
                         "Amortissements des autres installations techniques, mat\u00c3\u00a9riel et outillage": {
-                            "account_number": 28338
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28338,
+                            "is_group": 0
                         }
                     },
                     "Amortissements du mat\u00c3\u00a9riel de transport": {
-                        "account_number": 2834
+                        "account_type": "Accumulated Depreciation",
+                        "account_number": 2834,
+                        "is_group": 0
                     },
                     "Amortissements du mobilier, mat\u00c3\u00a9riel de bureau et am\u00c3\u00a9nagements divers": {
+                        "account_type": "Accumulated Depreciation",
                         "account_number": 2835,
+                        "is_group": 1,
                         "Amortissements du mobilier de bureau": {
-                            "account_number": 28351
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28351,
+                            "is_group": 0
                         },
                         "Amortissements du mat\u00c3\u00a9riel de bureau": {
-                            "account_number": 28352
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28352,
+                            "is_group": 0
                         },
                         "Amortissements du mat\u00c3\u00a9riel informatique": {
-                            "account_number": 28355
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28355,
+                            "is_group": 0
                         },
                         "Amortissements des agencements, installations et am\u00c3\u00a9nagements divers": {
-                            "account_number": 28356
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28356,
+                            "is_group": 0
                         },
                         "Amortissements des autres mobilier, mat\u00c3\u00a9riel de bureau et am\u00c3\u00a9nagements divers": {
-                            "account_number": 28358
+                            "account_type": "Accumulated Depreciation",
+                            "account_number": 28358,
+                            "is_group": 0
                         }
                     },
                     "Amortissements des autres immobilisations corporelles": {
-                        "account_number": 2838
+                        "account_type": "Accumulated Depreciation",
+                        "account_number": 2838,
+                        "is_group": 0
                     }
                 }
             },
             "PROVISIONS POUR DEPRECIATION DES IMMOBILISATIONS": {
                 "account_number": 29,
+                "is_group": 1,
                 "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des immobilisations incorporelles": {
                     "account_number": 292,
+                    "is_group": 1,
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des immobilisations incorporelles": {
-                        "account_number": 2920
+                        "account_number": 2920,
+                        "is_group": 0
                     }
                 },
                 "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des immobilisations corporelles": {
                     "account_number": 293,
+                    "is_group": 1,
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des immobilisations corporelles": {
-                        "account_number": 2930
+                        "account_number": 2930,
+                        "is_group": 0
                     }
                 },
                 "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des immobilisations financi\u00c3\u00a8res": {
                     "account_number": 295,
+                    "is_group": 1,
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des titres de participation": {
-                        "account_number": 2951
+                        "account_number": 2951,
+                        "is_group": 0
                     },
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des autres titres immobilis\u00c3\u00a9s": {
-                        "account_number": 2958
+                        "account_number": 2958,
+                        "is_group": 0
                     }
                 }
             }
         },
         "3 - COMPTES D'ACTIF CIRCULANT (HORS TRESORERIE)": {
             "account_number": 3,
-            "is_root": 1,
+            "root_type": "Asset",
             "is_group": 1,
             "STOCKS": {
+                "account_type": "Stock",
                 "account_number": 31,
+                "is_group": 1,
                 "Marchandises": {
+                    "account_type": "Stock",
                     "account_number": 311,
+                    "is_group": 1,
                     "Marchandises (groupe A)": {
-                        "account_number": 3111
+                        "account_type": "Stock",
+                        "account_number": 3111,
+                        "is_group": 0
                     },
                     "Marchandises (groupe B)": {
-                        "account_number": 3112
+                        "account_type": "Stock",
+                        "account_number": 3112,
+                        "is_group": 0
                     },
                     "Marchandises en cours de route": {
-                        "account_number": 3116
+                        "account_type": "Stock",
+                        "account_number": 3116,
+                        "is_group": 0
                     },
                     "Autres marchandises": {
-                        "account_number": 3118
+                        "account_type": "Stock",
+                        "account_number": 3118,
+                        "is_group": 0
                     }
                 },
                 "Mati\u00c3\u00a8res et fournitures consommables": {
+                    "account_type": "Stock",
                     "account_number": 312,
+                    "is_group": 1,
                     "Mati\u00c3\u00a8res premi\u00c3\u00a8res": {
+                        "account_type": "Stock",
                         "account_number": 3121,
+                        "is_group": 1,
                         "Mati\u00c3\u00a8res premi\u00c3\u00a8res (groupe A)": {
-                            "account_number": 31211
+                            "account_type": "Stock",
+                            "account_number": 31211,
+                            "is_group": 0
                         },
                         "Mati\u00c3\u00a8res premi\u00c3\u00a8res (groupe B)": {
-                            "account_number": 31212
+                            "account_type": "Stock",
+                            "account_number": 31212,
+                            "is_group": 0
                         }
                     },
                     "Mati\u00c3\u00a8res et fournitures consommables": {
+                        "account_type": "Stock",
                         "account_number": 3122,
+                        "is_group": 1,
                         "Mati\u00c3\u00a8res consommables (groupe A)": {
-                            "account_number": 31221
+                            "account_type": "Stock",
+                            "account_number": 31221,
+                            "is_group": 0
                         },
                         "Mati\u00c3\u00a8res consommables (groupe B)": {
-                            "account_number": 31222
+                            "account_type": "Stock",
+                            "account_number": 31222,
+                            "is_group": 0
                         },
                         "Combustibles": {
-                            "account_number": 31223
+                            "account_type": "Stock",
+                            "account_number": 31223,
+                            "is_group": 0
                         },
                         "Produits d'entretien": {
-                            "account_number": 31224
+                            "account_type": "Stock",
+                            "account_number": 31224,
+                            "is_group": 0
                         },
                         "Fournitures d'atelier et d'usine": {
-                            "account_number": 31225
+                            "account_type": "Stock",
+                            "account_number": 31225,
+                            "is_group": 0
                         },
                         "Fournitures de magasin": {
-                            "account_number": 31226
+                            "account_type": "Stock",
+                            "account_number": 31226,
+                            "is_group": 0
                         },
                         "Fournitures de bureau": {
-                            "account_number": 31227
+                            "account_type": "Stock",
+                            "account_number": 31227,
+                            "is_group": 0
                         }
                     },
                     "Emballages": {
+                        "account_type": "Stock",
                         "account_number": 3123,
+                        "is_group": 1,
                         "Emballages perdus": {
-                            "account_number": 31231
+                            "account_type": "Stock",
+                            "account_number": 31231,
+                            "is_group": 0
                         },
                         "Emballages r\u00c3\u00a9cup\u00c3\u00a9rables non identifiables": {
-                            "account_number": 31232
+                            "account_type": "Stock",
+                            "account_number": 31232,
+                            "is_group": 0
                         },
                         "Emballages \u00c3\u00a0 usage mixte": {
-                            "account_number": 31233
+                            "account_type": "Stock",
+                            "account_number": 31233,
+                            "is_group": 0
                         }
                     },
                     "Mati\u00c3\u00a8res et fournitures consommables en cours de route": {
-                        "account_number": 3126
+                        "account_type": "Stock",
+                        "account_number": 3126,
+                        "is_group": 0
                     },
                     "Autres mati\u00c3\u00a8res et fournitures consommables": {
-                        "account_number": 3128
+                        "account_type": "Stock",
+                        "account_number": 3128,
+                        "is_group": 0
                     }
                 },
                 "Produits en cours": {
+                    "account_type": "Stock",
                     "account_number": 313,
+                    "is_group": 1,
                     "Biens en cours": {
+                        "account_type": "Stock",
                         "account_number": 3131,
+                        "is_group": 1,
                         "Biens produits en cours": {
-                            "account_number": 31311
+                            "account_type": "Stock",
+                            "account_number": 31311,
+                            "is_group": 0
                         },
                         "Biens interm\u00c3\u00a9diaires en cours": {
-                            "account_number": 31312
+                            "account_type": "Stock",
+                            "account_number": 31312,
+                            "is_group": 0
                         },
                         "Biens r\u00c3\u00a9siduels en cours": {
-                            "account_number": 31317
+                            "account_type": "Stock",
+                            "account_number": 31317,
+                            "is_group": 0
                         }
                     },
                     "Services en cours": {
+                        "account_type": "Stock",
                         "account_number": 3134,
+                        "is_group": 1,
                         "Travaux en cours": {
-                            "account_number": 31341
+                            "account_type": "Stock",
+                            "account_number": 31341,
+                            "is_group": 0
                         },
                         "Etudes en cours": {
-                            "account_number": 31342
+                            "account_type": "Stock",
+                            "account_number": 31342,
+                            "is_group": 0
                         },
                         "Prestations en cours": {
-                            "account_number": 31343
+                            "account_type": "Stock",
+                            "account_number": 31343,
+                            "is_group": 0
                         }
                     },
                     "Autres produits en cours": {
-                        "account_number": 3138
+                        "account_type": "Stock",
+                        "account_number": 3138,
+                        "is_group": 0
                     }
                 },
                 "Produits interm\u00c3\u00a9diaires et produits r\u00c3\u00a9siduels": {
+                    "account_type": "Stock",
                     "account_number": 314,
+                    "is_group": 1,
                     "Produits interm\u00c3\u00a9diaires": {
+                        "account_type": "Stock",
                         "account_number": 3141,
+                        "is_group": 1,
                         "Produits interm\u00c3\u00a9diaires (groupe A)": {
-                            "account_number": 31411
+                            "account_type": "Stock",
+                            "account_number": 31411,
+                            "is_group": 0
                         },
                         "Produits interm\u00c3\u00a9diaires (groupe B)": {
-                            "account_number": 31412
+                            "account_type": "Stock",
+                            "account_number": 31412,
+                            "is_group": 0
                         }
                     },
                     "Produits r\u00c3\u00a9siduels (ou mati\u00c3\u00a8res de r\u00c3\u00a9cup\u00c3\u00a9ration)": {
+                        "account_type": "Stock",
                         "account_number": 3145,
+                        "is_group": 1,
                         "D\u00c3\u00a9chets": {
-                            "account_number": 31451
+                            "account_type": "Stock",
+                            "account_number": 31451,
+                            "is_group": 0
                         },
                         "Rebuts": {
-                            "account_number": 31452
+                            "account_type": "Stock",
+                            "account_number": 31452,
+                            "is_group": 0
                         },
                         "Mati\u00c3\u00a8res de r\u00c3\u00a9cup\u00c3\u00a9ration": {
-                            "account_number": 31453
+                            "account_type": "Stock",
+                            "account_number": 31453,
+                            "is_group": 0
                         }
                     },
                     "Autres produits interm\u00c3\u00a9diaires et produits r\u00c3\u00a9siduels": {
-                        "account_number": 3148
+                        "account_type": "Stock",
+                        "account_number": 3148,
+                        "is_group": 0
                     }
                 },
                 "Produits finis": {
+                    "account_type": "Stock",
                     "account_number": 315,
+                    "is_group": 1,
                     "Produits finis (groupe A)": {
-                        "account_number": 3151
+                        "account_type": "Stock",
+                        "account_number": 3151,
+                        "is_group": 0
                     },
                     "Produits finis (groupe B)": {
-                        "account_number": 3152
+                        "account_type": "Stock",
+                        "account_number": 3152,
+                        "is_group": 0
                     },
                     "Produits finis en cours de route": {
-                        "account_number": 3156
+                        "account_type": "Stock",
+                        "account_number": 3156,
+                        "is_group": 0
                     },
                     "Autres produits finis": {
-                        "account_number": 3158
+                        "account_type": "Stock",
+                        "account_number": 3158,
+                        "is_group": 0
                     }
                 }
             },
             "CREANCES DE L'ACTIF CIRCULANT": {
                 "account_number": 34,
+                "is_group": 1,
                 "Fournisseurs d\u00c3\u00a9biteurs, avances et acomptes": {
+                    "account_type": "Receivable",
                     "account_number": 341,
+                    "is_group": 1,
                     "Fournisseurs - avances et acomptes vers\u00c3\u00a9s sur commandes d'exploitation": {
-                        "account_number": 3411
+                        "account_type": "Receivable",
+                        "account_number": 3411,
+                        "is_group": 0
                     },
                     "Fournisseurs - cr\u00c3\u00a9ances pour emballages et mat\u00c3\u00a9riel \u00c3\u00a0 rendre": {
-                        "account_number": 3413
+                        "account_type": "Receivable",
+                        "account_number": 3413,
+                        "is_group": 0
                     },
                     "Rabais, remises et ristournes \u00c3\u00a0 obtenir - avoirs non encore re\u00c3\u00a7us": {
-                        "account_number": 3417
+                        "account_type": "Receivable",
+                        "account_number": 3417,
+                        "is_group": 0
                     },
                     "Autres fournisseurs d\u00c3\u00a9biteurs": {
-                        "account_number": 3418
+                        "account_type": "Receivable",
+                        "account_number": 3418,
+                        "is_group": 0
                     }
                 },
                 "Clients et comptes rattach\u00c3\u00a9s": {
+                    "account_type": "Receivable",
                     "account_number": 342,
+                    "is_group": 1,
                     "Clients": {
+                        "account_type": "Receivable",
                         "account_number": 3421,
+                        "is_group": 1,
                         "Clients - cat\u00c3\u00a9gorie A": {
-                            "account_number": 34211
+                            "account_type": "Receivable",
+                            "account_number": 34211,
+                            "is_group": 0
                         },
                         "Clients - cat\u00c3\u00a9gorie B": {
-                            "account_number": 34212
+                            "account_type": "Receivable",
+                            "account_number": 34212,
+                            "is_group": 0
                         }
                     },
                     "Clients - retenues de garantie": {
-                        "account_number": 3423
+                        "account_type": "Receivable",
+                        "account_number": 3423,
+                        "is_group": 0
                     },
                     "Clients douteux ou litigieux": {
-                        "account_number": 3424
+                        "account_type": "Receivable",
+                        "account_number": 3424,
+                        "is_group": 0
                     },
                     "Clients - effets \u00c3\u00a0 recevoir": {
-                        "account_number": 3425
+                        "account_type": "Receivable",
+                        "account_number": 3425,
+                        "is_group": 0
                     },
                     "Clients - factures \u00c3\u00a0 \u00c3\u00a9tablir et cr\u00c3\u00a9ances sur travaux non encore factur\u00c3\u00a9s": {
+                        "account_type": "Receivable",
                         "account_number": 3427,
+                        "is_group": 1,
                         "Clients - factures \u00c3\u00a0 \u00c3\u00a9tablir": {
-                            "account_number": 34271
+                            "account_type": "Receivable",
+                            "account_number": 34271,
+                            "is_group": 0
                         },
                         "Cr\u00c3\u00a9ances sur travaux non encore facturables": {
-                            "account_number": 34272
+                            "account_type": "Receivable",
+                            "account_number": 34272,
+                            "is_group": 0
                         }
                     },
                     "Autres clients et comptes rattach\u00c3\u00a9s": {
-                        "account_number": 3428
+                        "account_type": "Receivable",
+                        "account_number": 3428,
+                        "is_group": 0
                     }
                 },
                 "Personnel - d\u00c3\u00a9biteur": {
+                    "account_type": "Receivable",
                     "account_number": 343,
+                    "is_group": 1,
                     "Avances et acomptes au personnel": {
-                        "account_number": 3431
+                        "account_type": "Receivable",
+                        "account_number": 3431,
+                        "is_group": 0
                     },
                     "Personnel - autres d\u00c3\u00a9biteurs": {
-                        "account_number": 3438
+                        "account_type": "Receivable",
+                        "account_number": 3438,
+                        "is_group": 0
                     }
                 },
                 "Etat - d\u00c3\u00a9biteur": {
+                    "account_type": "Receivable",
                     "account_number": 345,
+                    "is_group": 1,
                     "Subventions \u00c3\u00a0 recevoir": {
+                        "account_type": "Receivable",
                         "account_number": 3451,
+                        "is_group": 1,
                         "Subventions d'investissement \u00c3\u00a0 recevoir": {
-                            "account_number": 34511
+                            "account_type": "Receivable",
+                            "account_number": 34511,
+                            "is_group": 0
                         },
                         "Subventions d'exploitation \u00c3\u00a0 recevoir": {
-                            "account_number": 34512
+                            "account_type": "Receivable",
+                            "account_number": 34512,
+                            "is_group": 0
                         },
                         "Subventions d'\u00c3\u00a9quilibre \u00c3\u00a0 recevoir": {
-                            "account_number": 34513
+                            "account_type": "Receivable",
+                            "account_number": 34513,
+                            "is_group": 0
                         }
                     },
                     "Acomptes sur imp\u00c3\u00b4ts sur les r\u00c3\u00a9sultats": {
-                        "account_number": 3453
+                        "account_type": "Receivable",
+                        "account_number": 3453,
+                        "is_group": 0
                     },
                     "Etat - TVA r\u00c3\u00a9cup\u00c3\u00a9rable": {
+                        "account_type": "Receivable",
                         "account_number": 3455,
+                        "is_group": 1,
                         "Etat - TVA r\u00c3\u00a9cup\u00c3\u00a9rable sur immobilisations": {
-                            "account_number": 34551
+                            "account_type": "Receivable",
+                            "account_number": 34551,
+                            "is_group": 0
                         },
                         "Etat - TVA r\u00c3\u00a9cup\u00c3\u00a9rable sur charges": {
-                            "account_number": 34552
+                            "account_type": "Receivable",
+                            "account_number": 34552,
+                            "is_group": 0
                         }
                     },
                     "Etat - cr\u00c3\u00a9dit de TVA (suivant d\u00c3\u00a9claration)": {
-                        "account_number": 3456
+                        "account_type": "Receivable",
+                        "account_number": 3456,
+                        "is_group": 0
                     },
                     "Etat - autres comptes d\u00c3\u00a9biteurs": {
-                        "account_number": 3458
+                        "account_type": "Receivable",
+                        "account_number": 3458,
+                        "is_group": 0
                     }
                 },
                 "Comptes d'associ\u00c3\u00a9s - d\u00c3\u00a9biteurs": {
+                    "account_type": "Receivable",
                     "account_number": 346,
+                    "is_group": 1,
                     "Associ\u00c3\u00a9s - comptes d'apport en soci\u00c3\u00a9t\u00c3\u00a9": {
-                        "account_number": 3461
+                        "account_type": "Receivable",
+                        "account_number": 3461,
+                        "is_group": 0
                     },
                     "Actionnaires - capital souscrit et appel\u00c3\u00a9 non vers\u00c3\u00a9": {
-                        "account_number": 3462
+                        "account_type": "Receivable",
+                        "account_number": 3462,
+                        "is_group": 0
                     },
                     "Comptes courants des associ\u00c3\u00a9s d\u00c3\u00a9biteurs": {
-                        "account_number": 3463
+                        "account_type": "Receivable",
+                        "account_number": 3463,
+                        "is_group": 0
                     },
                     "Associ\u00c3\u00a9s - op\u00c3\u00a9rations faites en commun": {
-                        "account_number": 3464
+                        "account_type": "Receivable",
+                        "account_number": 3464,
+                        "is_group": 0
                     },
                     "Cr\u00c3\u00a9ances rattach\u00c3\u00a9es aux comptes d'associ\u00c3\u00a9s": {
-                        "account_number": 3467
+                        "account_type": "Receivable",
+                        "account_number": 3467,
+                        "is_group": 0
                     },
                     "Autres comptes d'associ\u00c3\u00a9s d\u00c3\u00a9biteurs": {
-                        "account_number": 3468
+                        "account_type": "Receivable",
+                        "account_number": 3468,
+                        "is_group": 0
                     }
                 },
                 "Autres d\u00c3\u00a9biteurs": {
+                    "account_type": "Receivable",
                     "account_number": 348,
+                    "is_group": 1,
                     "Cr\u00c3\u00a9ances sur cessions d'immobilisations": {
-                        "account_number": 3481
+                        "account_type": "Receivable",
+                        "account_number": 3481,
+                        "is_group": 0
                     },
                     "Cr\u00c3\u00a9ances sur cessions d'\u00c3\u00a9l\u00c3\u00a9ments d'actif circulant": {
-                        "account_number": 3482
+                        "account_type": "Receivable",
+                        "account_number": 3482,
+                        "is_group": 0
                     },
                     "Cr\u00c3\u00a9ances rattach\u00c3\u00a9es aux autres d\u00c3\u00a9biteurs": {
-                        "account_number": 3487
+                        "account_type": "Receivable",
+                        "account_number": 3487,
+                        "is_group": 0
                     },
                     "Divers d\u00c3\u00a9biteurs": {
-                        "account_number": 3488
+                        "account_type": "Receivable",
+                        "account_number": 3488,
+                        "is_group": 0
                     }
                 },
                 "Comptes de r\u00c3\u00a9gularisation - actif": {
+                    "account_type": "Receivable",
                     "account_number": 349,
+                    "is_group": 1,
                     "Charges constat\u00c3\u00a9es d'avance": {
-                        "account_number": 3491
+                        "account_type": "Receivable",
+                        "account_number": 3491,
+                        "is_group": 0
                     },
                     "Int\u00c3\u00a9r\u00c3\u00aats courus et non \u00c3\u00a9chus \u00c3\u00a0 percevoir": {
-                        "account_number": 3493
+                        "account_type": "Receivable",
+                        "account_number": 3493,
+                        "is_group": 0
                     },
                     "Comptes de r\u00c3\u00a9partition p\u00c3\u00a9riodique des charges": {
-                        "account_number": 3495
+                        "account_number": 3495,
+                        "is_group": 0
                     },
                     "Comptes transitoires ou d'attente - d\u00c3\u00a9biteurs": {
-                        "account_number": 3497
+                        "account_type": "Temporary",
+                        "account_number": 3497,
+                        "is_group": 0
                     }
                 }
             },
             "TITRES ET VALEURS DE PLACEMENT": {
                 "account_number": 35,
+                "is_group": 1,
                 "Titres et valeurs de placement": {
                     "account_number": 350,
+                    "is_group": 1,
                     "Actions, partie lib\u00c3\u00a9r\u00c3\u00a9e": {
-                        "account_number": 3501
+                        "account_number": 3501,
+                        "is_group": 0
                     },
                     "Actions, partie non lib\u00c3\u00a9r\u00c3\u00a9e": {
-                        "account_number": 3502
+                        "account_number": 3502,
+                        "is_group": 0
                     },
                     "Obligations": {
-                        "account_number": 3504
+                        "account_number": 3504,
+                        "is_group": 0
                     },
                     "Bons de caisse et bons de tr\u00c3\u00a9sor": {
                         "account_number": 3506,
+                        "is_group": 1,
                         "Bons de caisse": {
-                            "account_number": 35061
+                            "account_number": 35061,
+                            "is_group": 0
                         },
                         "Bons de tr\u00c3\u00a9sor": {
-                            "account_number": 35062
+                            "account_number": 35062,
+                            "is_group": 0
                         }
                     },
                     "Autres titres et valeurs de placement similaires": {
-                        "account_number": 3508
+                        "account_number": 3508,
+                        "is_group": 0
                     }
                 }
             },
             "ECART DE CONVERSION - ACTIF (El\u00c3\u00a9ments circulants)": {
                 "account_number": 37,
+                "is_group": 1,
                 "Ecart de conversion - Actif (\u00c3\u00a9l\u00c3\u00a9ments circulants)": {
                     "account_number": 370,
+                    "is_group": 1,
                     "Diminution des cr\u00c3\u00a9ances circulantes": {
-                        "account_number": 3701
+                        "account_number": 3701,
+                        "is_group": 0
                     },
                     "Augmentation des dettes circulantes": {
-                        "account_number": 3702
+                        "account_number": 3702,
+                        "is_group": 0
                     }
                 }
             },
             "PROVISIONS POUR DEPRECIATION DES COMPTES DE L'ACTIF CIRCULANT": {
                 "account_number": 39,
+                "is_group": 1,
                 "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des stocks": {
                     "account_number": 391,
+                    "is_group": 1,
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des marchandises": {
-                        "account_number": 3911
+                        "account_number": 3911,
+                        "is_group": 0
                     },
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des mati\u00c3\u00a8res et fournitures": {
-                        "account_number": 3912
+                        "account_number": 3912,
+                        "is_group": 0
                     },
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des produits en cours": {
-                        "account_number": 3913
+                        "account_number": 3913,
+                        "is_group": 0
                     },
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des produits interm\u00c3\u00a9diaires": {
-                        "account_number": 3914
+                        "account_number": 3914,
+                        "is_group": 0
                     },
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des produits finis": {
-                        "account_number": 3915
+                        "account_number": 3915,
+                        "is_group": 0
                     }
                 },
                 "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des cr\u00c3\u00a9ances de l'actif circulant": {
                     "account_number": 394,
+                    "is_group": 1,
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation - fournisseurs d\u00c3\u00a9biteurs, avances et acomptes": {
-                        "account_number": 3941
+                        "account_number": 3941,
+                        "is_group": 0
                     },
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des clients et comptes rattach\u00c3\u00a9s": {
-                        "account_number": 3942
+                        "account_number": 3942,
+                        "is_group": 0
                     },
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation du personnel - d\u00c3\u00a9biteur": {
-                        "account_number": 3943
+                        "account_number": 3943,
+                        "is_group": 0
                     },
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des comptes d'associ\u00c3\u00a9s d\u00c3\u00a9biteurs": {
-                        "account_number": 3946
+                        "account_number": 3946,
+                        "is_group": 0
                     },
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des autres d\u00c3\u00a9biteurs": {
-                        "account_number": 3948
+                        "account_number": 3948,
+                        "is_group": 0
                     }
                 },
                 "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des titres et valeurs de placement": {
                     "account_number": 395,
+                    "is_group": 1,
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des titres et valeurs de placement": {
-                        "account_number": 3950
+                        "account_number": 3950,
+                        "is_group": 0
                     }
                 }
             }
         },
         "4 - COMPTES DU PASSIF CIRCULANT (HORS TRESORERIE)": {
             "account_number": 4,
-            "is_root": 1,
+            "root_type": "Liability",
             "is_group": 1,
             "DETTES DU PASSIF CIRCULANT": {
+                "account_type": "Payable",
                 "account_number": 44,
+                "is_group": 1,
                 "Fournisseurs et comptes rattach\u00c3\u00a9s": {
+                    "account_type": "Payable",
                     "account_number": 441,
+                    "is_group": 1,
                     "Fournisseurs": {
+                        "account_type": "Payable",
                         "account_number": 4411,
+                        "is_group": 1,
                         "Fournisseurs - cat\u00c3\u00a9gorie A": {
-                            "account_number": 44111
+                            "account_type": "Payable",
+                            "account_number": 44111,
+                            "is_group": 0
                         },
                         "Fournisseurs - cat\u00c3\u00a9gorie B": {
-                            "account_number": 44112
+                            "account_type": "Payable",
+                            "account_number": 44112,
+                            "is_group": 0
                         }
                     },
                     "Fournisseurs - retenues de garantie": {
-                        "account_number": 4413
+                        "account_type": "Payable",
+                        "account_number": 4413,
+                        "is_group": 0
                     },
                     "Fournisseurs - effets \u00c3\u00a0 payer": {
-                        "account_number": 4415
+                        "account_type": "Payable",
+                        "account_number": 4415,
+                        "is_group": 0
                     },
                     "Fournisseurs - factures non parvenues": {
-                        "account_number": 4417
+                        "account_type": "Stock Received But Not Billed",
+                        "account_number": 4417,
+                        "is_group": 0
                     },
                     "Autres fournisseurs et comptes rattach\u00c3\u00a9s": {
-                        "account_number": 4418
+                        "account_type": "Payable",
+                        "account_number": 4418,
+                        "is_group": 0
                     }
                 },
                 "Clients cr\u00c3\u00a9diteurs, avances et acomptes": {
+                    "account_type": "Payable",
                     "account_number": 442,
+                    "is_group": 1,
                     "Clients - avances et acomptes re\u00c3\u00a7us sur commandes en cours": {
-                        "account_number": 4421
+                        "account_type": "Payable",
+                        "account_number": 4421,
+                        "is_group": 0
                     },
                     "Clients - dettes pour emballages et mat\u00c3\u00a9riel consign\u00c3\u00a9s": {
-                        "account_number": 4425
+                        "account_type": "Payable",
+                        "account_number": 4425,
+                        "is_group": 0
                     },
                     "Rabais, remises et ristournes \u00c3\u00a0 accorder - avoirs \u00c3\u00a0 \u00c3\u00a9tablir": {
-                        "account_number": 4427
+                        "account_type": "Payable",
+                        "account_number": 4427,
+                        "is_group": 0
                     },
                     "Autres clients cr\u00c3\u00a9diteurs": {
-                        "account_number": 4428
+                        "account_type": "Payable",
+                        "account_number": 4428,
+                        "is_group": 0
                     }
                 },
                 "Personnel - cr\u00c3\u00a9diteur": {
+                    "account_type": "Payable",
                     "account_number": 443,
+                    "is_group": 1,
                     "R\u00c3\u00a9mun\u00c3\u00a9rations dues au personnel": {
-                        "account_number": 4432
+                        "account_type": "Payable",
+                        "account_number": 4432,
+                        "is_group": 0
                     },
                     "D\u00c3\u00a9p\u00c3\u00b4ts du personnel cr\u00c3\u00a9diteurs": {
-                        "account_number": 4433
+                        "account_type": "Payable",
+                        "account_number": 4433,
+                        "is_group": 0
                     },
                     "Oppositions sur salaires": {
-                        "account_number": 4434
+                        "account_type": "Payable",
+                        "account_number": 4434,
+                        "is_group": 0
                     },
                     "Charges du personnel \u00c3\u00a0 payer": {
-                        "account_number": 4437
+                        "account_type": "Payable",
+                        "account_number": 4437,
+                        "is_group": 0
                     },
                     "Personnel - autres cr\u00c3\u00a9diteurs": {
-                        "account_number": 4438
+                        "account_type": "Payable",
+                        "account_number": 4438,
+                        "is_group": 0
                     }
                 },
                 "Organismes sociaux": {
+                    "account_type": "Payable",
                     "account_number": 444,
+                    "is_group": 1,
                     "Caisse Nationale de la S\u00c3\u00a9curit\u00c3\u00a9 Sociale": {
-                        "account_number": 4441
+                        "account_type": "Payable",
+                        "account_number": 4441,
+                        "is_group": 0
                     },
                     "Caisses de retraite": {
-                        "account_number": 4443
+                        "account_type": "Payable",
+                        "account_number": 4443,
+                        "is_group": 0
                     },
                     "Mutuelles": {
-                        "account_number": 4445
+                        "account_type": "Payable",
+                        "account_number": 4445,
+                        "is_group": 0
                     },
                     "Charges sociales \u00c3\u00a0 payer": {
-                        "account_number": 4447
+                        "account_type": "Payable",
+                        "account_number": 4447,
+                        "is_group": 0
                     },
                     "Autres organismes sociaux": {
-                        "account_number": 4448
+                        "account_type": "Payable",
+                        "account_number": 4448,
+                        "is_group": 0
                     }
                 },
                 "Etat - cr\u00c3\u00a9diteur": {
+                    "account_type": "Payable",
                     "account_number": 445,
+                    "is_group": 1,
                     "Etat Imp\u00c3\u00b4ts, taxes et assimil\u00c3\u00a9s": {
+                        "account_type": "Payable",
                         "account_number": 4452,
+                        "is_group": 1,
                         "Etat, taxe urbaine et taxe d'\u00c3\u00a9dilit\u00c3\u00a9": {
-                            "account_number": 44521
+                            "account_type": "Payable",
+                            "account_number": 44521,
+                            "is_group": 0
                         },
                         "Etat, patente": {
-                            "account_number": 44522
+                            "account_type": "Payable",
+                            "account_number": 44522,
+                            "is_group": 0
                         },
                         "Etat, IGR": {
-                            "account_number": 44525
+                            "account_type": "Payable",
+                            "account_number": 44525,
+                            "is_group": 0
                         }
                     },
                     "Etat, imp\u00c3\u00b4ts sur les r\u00c3\u00a9sultats": {
-                        "account_number": 4453
+                        "account_type": "Payable",
+                        "account_number": 4453,
+                        "is_group": 0
                     },
                     "Etat, TVA factur\u00c3\u00a9e": {
-                        "account_number": 4455
+                        "account_type": "Payable",
+                        "account_number": 4455,
+                        "is_group": 0
                     },
                     "Etat, TVA due (suivant d\u00c3\u00a9clarations)": {
-                        "account_number": 4456
+                        "account_type": "Payable",
+                        "account_number": 4456,
+                        "is_group": 0
                     },
                     "Etat, imp\u00c3\u00b4ts et taxes \u00c3\u00a0 payer": {
-                        "account_number": 4457
+                        "account_type": "Payable",
+                        "account_number": 4457,
+                        "is_group": 0
                     },
                     "Etat - autres comptes cr\u00c3\u00a9diteurs": {
-                        "account_number": 4458
+                        "account_type": "Payable",
+                        "account_number": 4458,
+                        "is_group": 0
                     }
                 },
                 "Comptes d'associ\u00c3\u00a9s - cr\u00c3\u00a9diteurs": {
+                    "account_type": "Payable",
                     "account_number": 446,
+                    "is_group": 1,
                     "Associ\u00c3\u00a9s - capital \u00c3\u00a0 rembourser": {
-                        "account_number": 4461
+                        "account_type": "Payable",
+                        "account_number": 4461,
+                        "is_group": 0
                     },
                     "Associ\u00c3\u00a9s - versements re\u00c3\u00a7us sur augmentation de capital": {
-                        "account_number": 4462
+                        "account_type": "Payable",
+                        "account_number": 4462,
+                        "is_group": 0
                     },
                     "Comptes courants des associ\u00c3\u00a9s cr\u00c3\u00a9diteurs": {
-                        "account_number": 4463
+                        "account_type": "Payable",
+                        "account_number": 4463,
+                        "is_group": 0
                     },
                     "Associ\u00c3\u00a9s - op\u00c3\u00a9rations faites en commun": {
-                        "account_number": 4464
+                        "account_type": "Payable",
+                        "account_number": 4464,
+                        "is_group": 0
                     },
                     "Associ\u00c3\u00a9s - dividendes \u00c3\u00a0 payer": {
-                        "account_number": 4465
+                        "account_type": "Payable",
+                        "account_number": 4465,
+                        "is_group": 0
                     },
                     "Autres comptes d'associ\u00c3\u00a9s - cr\u00c3\u00a9diteurs": {
-                        "account_number": 4468
+                        "account_type": "Payable",
+                        "account_number": 4468,
+                        "is_group": 0
                     }
                 },
                 "Autres cr\u00c3\u00a9anciers": {
+                    "account_type": "Payable",
                     "account_number": 448,
+                    "is_group": 1,
                     "Dettes sur acquisitions d'immobilisations": {
-                        "account_number": 4481
+                        "account_type": "Payable",
+                        "account_number": 4481,
+                        "is_group": 0
                     },
                     "Dettes sur acquisitions de titres et valeurs de placement": {
-                        "account_number": 4483
+                        "account_type": "Payable",
+                        "account_number": 4483,
+                        "is_group": 0
                     },
                     "Obligations \u00c3\u00a9chues \u00c3\u00a0 rembourser": {
-                        "account_number": 4484
+                        "account_type": "Payable",
+                        "account_number": 4484,
+                        "is_group": 0
                     },
                     "Obligations, coupons \u00c3\u00a0 payer": {
-                        "account_number": 4485
+                        "account_type": "Payable",
+                        "account_number": 4485,
+                        "is_group": 0
                     },
                     "Dettes rattach\u00c3\u00a9es aux autres cr\u00c3\u00a9anciers": {
-                        "account_number": 4487
+                        "account_type": "Payable",
+                        "account_number": 4487,
+                        "is_group": 0
                     },
                     "Divers cr\u00c3\u00a9anciers": {
-                        "account_number": 4488
+                        "account_type": "Payable",
+                        "account_number": 4488,
+                        "is_group": 0
                     }
                 },
                 "Comptes de r\u00c3\u00a9gularisation - passif": {
+                    "account_type": "Payable",
                     "account_number": 449,
+                    "is_group": 1,
                     "Produits constat\u00c3\u00a9s d'avance": {
-                        "account_number": 4491
+                        "account_type": "Payable",
+                        "account_number": 4491,
+                        "is_group": 0
                     },
                     "Int\u00c3\u00a9r\u00c3\u00aats courus et non \u00c3\u00a9chus \u00c3\u00a0 payer": {
-                        "account_number": 4493
+                        "account_type": "Payable",
+                        "account_number": 4493,
+                        "is_group": 0
                     },
                     "Comptes de r\u00c3\u00a9partition p\u00c3\u00a9riodique des produits": {
-                        "account_number": 4495
+                        "account_type": "Payable",
+                        "account_number": 4495,
+                        "is_group": 0
                     },
                     "Comptes transitoires ou d'attente - cr\u00c3\u00a9diteurs": {
-                        "account_number": 4497
+                        "account_type": "Temporary",
+                        "account_number": 4497,
+                        "is_group": 0
                     }
                 }
             },
             "AUTRES PROVISIONS POUR RISQUES ET CHARGES": {
                 "account_number": 45,
+                "is_group": 1,
                 "Autres provisions pour risques et charges": {
                     "account_number": 450,
+                    "is_group": 1,
                     "Provisions pour litiges": {
-                        "account_number": 4501
+                        "account_number": 4501,
+                        "is_group": 0
                     },
                     "Provisions pour garanties donn\u00c3\u00a9es aux clients": {
-                        "account_number": 4502
+                        "account_number": 4502,
+                        "is_group": 0
                     },
                     "Provisions pour amendes, doubles droits et p\u00c3\u00a9nalit\u00c3\u00a9s": {
-                        "account_number": 4505
+                        "account_number": 4505,
+                        "is_group": 0
                     },
                     "Provisions pour pertes de change": {
-                        "account_number": 4506
+                        "account_number": 4506,
+                        "is_group": 0
                     },
                     "Provisions pour imp\u00c3\u00b4ts": {
-                        "account_number": 4507
+                        "account_number": 4507,
+                        "is_group": 0
                     },
                     "Autres provisions pour risques et charges": {
-                        "account_number": 4508
+                        "account_number": 4508,
+                        "is_group": 0
                     }
                 }
             },
             "ECARTS DE CONVERSION - PASSIF (El\u00c3\u00a9ments circulants)": {
                 "account_number": 47,
+                "is_group": 1,
                 "Ecarts de conversion - passif (El\u00c3\u00a9ments circulants)": {
                     "account_number": 470,
+                    "is_group": 1,
                     "Augmentation des cr\u00c3\u00a9ances circulantes": {
-                        "account_number": 4701
+                        "account_number": 4701,
+                        "is_group": 0
                     },
                     "Diminution des dettes circulantes": {
-                        "account_number": 4702
+                        "account_number": 4702,
+                        "is_group": 0
                     }
                 }
             }
         },
         "5 - COMPTES DE TRESORERIE": {
             "account_number": 5,
-            "is_root": 1,
+            "root_type": "Asset",
             "is_group": 1,
             "TRESORERIE - ACTIF": {
                 "account_number": 51,
+                "is_group": 1,
                 "Ch\u00c3\u00a8ques et valeurs \u00c3\u00a0 encaisser": {
+                    "account_type": "Bank",
                     "account_number": 511,
+                    "is_group": 1,
                     "Ch\u00c3\u00a8ques \u00c3\u00a0 encaisser ou \u00c3\u00a0 l'encaissement": {
+                        "account_type": "Bank",
                         "account_number": 5111,
+                        "is_group": 1,
                         "Ch\u00c3\u00a8ques en portefeuille": {
-                            "account_number": 51111
+                            "account_type": "Bank",
+                            "account_number": 51111,
+                            "is_group": 0
                         },
                         "Ch\u00c3\u00a8ques \u00c3\u00a0 l'encaissement": {
-                            "account_number": 51112
+                            "account_type": "Bank",
+                            "account_number": 51112,
+                            "is_group": 0
                         }
                     },
                     "Effets \u00c3\u00a0 encaisser ou \u00c3\u00a0 l'encaissement": {
+                        "account_type": "Bank",
                         "account_number": 5113,
+                        "is_group": 1,
                         "Effets \u00c3\u00a9chus \u00c3\u00a0 encaisser": {
-                            "account_number": 51131
+                            "account_type": "Bank",
+                            "account_number": 51131,
+                            "is_group": 0
                         },
                         "Effets \u00c3\u00a0 l'encaissement": {
-                            "account_number": 51132
+                            "account_type": "Bank",
+                            "account_number": 51132,
+                            "is_group": 0
                         }
                     },
                     "Virement de fonds": {
-                        "account_number": 5115
+                        "account_type": "Bank",
+                        "account_number": 5115,
+                        "is_group": 0
                     },
                     "Autres valeurs \u00c3\u00a0 encaisser": {
-                        "account_number": 5118
+                        "account_type": "Bank",
+                        "account_number": 5118,
+                        "is_group": 0
                     }
                 },
                 "Banques, Tr\u00c3\u00a9sorerie G\u00c3\u00a9n\u00c3\u00a9rale et ch\u00c3\u00a8ques postaux d\u00c3\u00a9biteurs": {
+                    "account_type": "Bank",
                     "account_number": 514,
+                    "is_group": 1,
                     "Banques (solde d\u00c3\u00a9biteur)": {
-                        "account_number": 5141
+                        "account_type": "Bank",
+                        "account_number": 5141,
+                        "is_group": 0
                     },
                     "Tr\u00c3\u00a9sorerie G\u00c3\u00a9n\u00c3\u00a9rale": {
-                        "account_number": 5143
+                        "account_type": "Bank",
+                        "account_number": 5143,
+                        "is_group": 0
                     },
                     "Ch\u00c3\u00a8ques postaux": {
-                        "account_number": 5146
+                        "account_type": "Bank",
+                        "account_number": 5146,
+                        "is_group": 0
                     },
                     "Autres \u00c3\u00a9tablissements financiers et assimil\u00c3\u00a9s (soldes d\u00c3\u00a9biteurs)": {
-                        "account_number": 5148
+                        "account_type": "Bank",
+                        "account_number": 5148,
+                        "is_group": 0
                     }
                 },
                 "Caisses, r\u00c3\u00a9gies d'avances et accr\u00c3\u00a9ditifs": {
+                    "account_type": "Cash",
                     "account_number": 516,
+                    "is_group": 1,
                     "Caisses": {
+                        "account_type": "Cash",
                         "account_number": 5161,
+                        "is_group": 1,
                         "Caisse Centrale": {
-                            "account_number": 51611
+                            "account_type": "Cash",
+                            "account_number": 51611,
+                            "is_group": 0
                         },
                         "Caisse (succursale ou agence A)": {
-                            "account_number": 51613
+                            "account_type": "Cash",
+                            "account_number": 51613,
+                            "is_group": 0
                         },
                         "Caisse (succursale ou agence B)": {
-                            "account_number": 51614
+                            "account_type": "Cash",
+                            "account_number": 51614,
+                            "is_group": 0
                         }
                     },
                     "R\u00c3\u00a9gies d'avances et accr\u00c3\u00a9ditifs": {
-                        "account_number": 5165
+                        "account_number": 5165,
+                        "is_group": 0
                     }
                 }
             },
             "TRESORERIE - PASSIF": {
                 "account_number": 55,
+                "is_group": 1,
                 "Cr\u00c3\u00a9dits d'escompte": {
                     "account_number": 552,
+                    "is_group": 1,
                     "Cr\u00c3\u00a9dits d'escompte": {
-                        "account_number": 5520
+                        "account_number": 5520,
+                        "is_group": 0
                     }
                 },
                 "Cr\u00c3\u00a9dits de tr\u00c3\u00a9sorerie": {
                     "account_number": 553,
+                    "is_group": 1,
                     "Cr\u00c3\u00a9dits de tr\u00c3\u00a9sorerie": {
-                        "account_number": 5530
+                        "account_number": 5530,
+                        "is_group": 0
                     }
                 },
                 "Banques (solde cr\u00c3\u00a9diteur)": {
                     "account_number": 554,
+                    "is_group": 1,
                     "Banques (solde cr\u00c3\u00a9diteur)": {
-                        "account_number": 5541
+                        "account_number": 5541,
+                        "is_group": 0
                     },
                     "Autres \u00c3\u00a9tablissements financiers et assimil\u00c3\u00a9s (soldes cr\u00c3\u00a9diteurs)": {
-                        "account_number": 5548
+                        "account_number": 5548,
+                        "is_group": 0
                     }
                 }
             },
             "PROVISIONS POUR DEPRECIATION DES COMPTES DE TRESORERIE": {
                 "account_number": 59,
+                "is_group": 1,
                 "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des comptes de tr\u00c3\u00a9sorerie": {
                     "account_number": 590,
+                    "is_group": 1,
                     "Provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des comptes de tr\u00c3\u00a9sorerie": {
-                        "account_number": 5900
+                        "account_number": 5900,
+                        "is_group": 0
                     }
                 }
             }
         },
         "6 - COMPTES DE CHARGES": {
             "account_number": 6,
-            "is_root": 1,
+            "root_type": "Expense",
             "is_group": 1,
             "CHARGES D'EXPLOITATION": {
                 "account_number": 61,
+                "is_group": 1,
                 "Achats revendus de marchandises": {
+                    "account_type": "Cost of Goods Sold",
                     "account_number": 611,
+                    "is_group": 1,
                     "Achats de marchandises \"groupe A\"": {
-                        "account_number": 6111
+                        "account_type": "Cost of Goods Sold",
+                        "account_number": 6111,
+                        "is_group": 0
                     },
                     "Achats de marchandises \"groupe B\"": {
-                        "account_number": 6112
+                        "account_type": "Cost of Goods Sold",
+                        "account_number": 6112,
+                        "is_group": 0
                     },
                     "Variation de stocks de marchandises": {
-                        "account_number": 6114
+                        "account_type": "Stock Adjustment",
+                        "account_number": 6114,
+                        "is_group": 0
                     },
                     "Achats revendus de marchandises des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6118
+                        "account_type": "Cost of Goods Sold",
+                        "account_number": 6118,
+                        "is_group": 0
                     },
                     "Rabais, remises et ristournes obtenus sur achats de marchandises": {
-                        "account_number": 6119
+                        "account_number": 6119,
+                        "is_group": 0
                     }
                 },
                 "Achats consomm\u00c3\u00a9s de mati\u00c3\u00a8res et fournitures": {
+                    "account_type": "Cost of Goods Sold",
                     "account_number": 612,
+                    "is_group": 1,
                     "Achats de mati\u00c3\u00a8res premi\u00c3\u00a8res": {
+                        "account_type": "Cost of Goods Sold",
                         "account_number": 6121,
+                        "is_group": 1,
                         "Achats de mati\u00c3\u00a8res premi\u00c3\u00a8res A": {
-                            "account_number": 61211
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61211,
+                            "is_group": 0
                         },
                         "Achats de mati\u00c3\u00a8res premi\u00c3\u00a8res B": {
-                            "account_number": 61212
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61212,
+                            "is_group": 0
                         }
                     },
                     "Achats de mati\u00c3\u00a8res et fournitures consommables": {
+                        "account_type": "Cost of Goods Sold",
                         "account_number": 6122,
+                        "is_group": 1,
                         "Achats de mati\u00c3\u00a8res et fournitures A": {
-                            "account_number": 61221
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61221,
+                            "is_group": 0
                         },
                         "Achats de mati\u00c3\u00a8res et fournitures B": {
-                            "account_number": 61222
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61222,
+                            "is_group": 0
                         },
                         "Achats de combustibles": {
-                            "account_number": 61223
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61223,
+                            "is_group": 0
                         },
                         "Achats de produits d'entretien": {
-                            "account_number": 61224
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61224,
+                            "is_group": 0
                         },
                         "Achats de fournitures d'atelier et d'usine": {
-                            "account_number": 61225
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61225,
+                            "is_group": 0
                         },
                         "Achats de fournitures de magasin": {
-                            "account_number": 61226
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61226,
+                            "is_group": 0
                         },
                         "Achats de fournitures de bureau": {
-                            "account_number": 61227
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61227,
+                            "is_group": 0
                         }
                     },
                     "Achats d'emballages": {
+                        "account_type": "Cost of Goods Sold",
                         "account_number": 6123,
+                        "is_group": 0,
                         "Achats d'emballages r\u00c3\u00a9cup\u00c3\u00a9rables non identifiables": {
-                            "account_number": 61232
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61232,
+                            "is_group": 0
                         },
                         "Achats d'emballages \u00c3\u00a0 usage mixte": {
-                            "account_number": 61233
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61233,
+                            "is_group": 0
                         }
                     },
                     "Variation des stocks de mati\u00c3\u00a8res et fournitures": {
+                        "account_type": "Stock Adjustment",
                         "account_number": 6124,
+                        "is_group": 1,
                         "Variation des stocks de mati\u00c3\u00a8res premi\u00c3\u00a8res": {
-                            "account_number": 61241
+                            "account_type": "Stock Adjustment",
+                            "account_number": 61241,
+                            "is_group": 0
                         },
                         "Variation des stocks de mati\u00c3\u00a8res et fournitures consommables": {
-                            "account_number": 61242
+                            "account_type": "Stock Adjustment",
+                            "account_number": 61242,
+                            "is_group": 0
                         },
                         "Variation des stocks des emballages": {
-                            "account_number": 61243
+                            "account_type": "Stock Adjustment",
+                            "account_number": 61243,
+                            "is_group": 0
                         }
                     },
                     "Achats non stock\u00c3\u00a9s de mati\u00c3\u00a8res et fournitures": {
+                        "account_type": "Cost of Goods Sold",
                         "account_number": 6125,
+                        "is_group": 1,
                         "Achats de fournitures non stockables (eau, \u00c3\u00a9lectricit\u00c3\u00a9,,)": {
-                            "account_number": 61251
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61251,
+                            "is_group": 0
                         },
                         "Achats de fournitures d'entretien": {
-                            "account_number": 61252
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61252,
+                            "is_group": 0
                         },
                         "Achats de petit outillage et petit \u00c3\u00a9quipement": {
-                            "account_number": 61253
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61253,
+                            "is_group": 0
                         },
                         "Achats de fournitures de bureau": {
-                            "account_number": 61254
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61254,
+                            "is_group": 0
                         }
                     },
                     "Achats de travaux, \u00c3\u00a9tudes et prestations de service": {
+                        "account_type": "Cost of Goods Sold",
                         "account_number": 6126,
+                        "is_group": 1,
                         "Achats des travaux": {
-                            "account_number": 61261
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61261,
+                            "is_group": 0
                         },
                         "Achats des \u00c3\u00a9tudes": {
-                            "account_number": 61262
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61262,
+                            "is_group": 0
                         },
                         "Achats des prestations de service": {
-                            "account_number": 61263
+                            "account_type": "Cost of Goods Sold",
+                            "account_number": 61263,
+                            "is_group": 0
                         }
                     },
                     "Achats de mati\u00c3\u00a8res et de fournitures des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6128
+                        "account_type": "Cost of Goods Sold",
+                        "account_number": 6128,
+                        "is_group": 0
                     },
                     "Rabais, remises et ristournes obtenus sur achats consomm\u00c3\u00a9s de mati\u00c3\u00a8res et fournitures": {
                         "account_number": 6129,
+                        "is_group": 1,
                         "Rabais, remises et ristournes obtenus sur achats de mati\u00c3\u00a8res premi\u00c3\u00a8res": {
-                            "account_number": 61291
+                            "account_number": 61291,
+                            "is_group": 0
                         },
                         "Rabais, remises et ristournes obtenus sur achats de mati\u00c3\u00a8res et fournitures consommables": {
-                            "account_number": 61292
+                            "account_number": 61292,
+                            "is_group": 0
                         },
                         "Rabais, remises et ristournes obtenus sur achats des emballages": {
-                            "account_number": 61293
+                            "account_number": 61293,
+                            "is_group": 0
                         },
                         "Rabais, remises et ristournes obtenus sur achats non stock\u00c3\u00a9s": {
-                            "account_number": 61295
+                            "account_number": 61295,
+                            "is_group": 0
                         },
                         "Rabais, remises et ristournes obtenus sur achats de travaux, \u00c3\u00a9tudes et prestations de service": {
-                            "account_number": 61296
+                            "account_number": 61296,
+                            "is_group": 0
                         },
                         "Rabais, remises et ristournes obtenus sur achats de mati\u00c3\u00a8res et fournitures des exercices ant\u00c3\u00a9rieurs": {
-                            "account_number": 61298
+                            "account_number": 61298,
+                            "is_group": 0
                         }
                     }
                 },
                 "Autres charges externes": {
                     "account_number": 614,
+                    "is_group": 1,
                     "Etudes, recherches et documentation": {
                         "account_number": 6141,
+                        "is_group": 1,
                         "Etudes g\u00c3\u00a9n\u00c3\u00a9rales": {
-                            "account_number": 61411
+                            "account_number": 61411,
+                            "is_group": 0
                         },
                         "Recherches": {
-                            "account_number": 61413
+                            "account_number": 61413,
+                            "is_group": 0
                         },
                         "Documentation g\u00c3\u00a9n\u00c3\u00a9rale": {
-                            "account_number": 61415
+                            "account_number": 61415,
+                            "is_group": 0
                         },
                         "Documentation technique": {
-                            "account_number": 61416
+                            "account_number": 61416,
+                            "is_group": 0
                         }
                     },
                     "Transports": {
                         "account_number": 6142,
+                        "is_group": 1,
                         "Transports du personnel": {
-                            "account_number": 61421
+                            "account_number": 61421,
+                            "is_group": 0
                         },
                         "Transports sur achats": {
-                            "account_number": 61425
+                            "account_number": 61425,
+                            "is_group": 0
                         },
                         "Transports sur ventes": {
-                            "account_number": 61426
+                            "account_number": 61426,
+                            "is_group": 0
                         },
                         "Autres transports": {
-                            "account_number": 61428
+                            "account_number": 61428,
+                            "is_group": 0
                         }
                     },
                     "D\u00c3\u00a9placements, missions et r\u00c3\u00a9ceptions": {
                         "account_number": 6143,
+                        "is_group": 1,
                         "Voyages et d\u00c3\u00a9placements": {
-                            "account_number": 61431
+                            "account_number": 61431,
+                            "is_group": 0
                         },
                         "Frais de d\u00c3\u00a9m\u00c3\u00a9nagement": {
-                            "account_number": 61433
+                            "account_number": 61433,
+                            "is_group": 0
                         },
                         "Missions": {
-                            "account_number": 61435
+                            "account_number": 61435,
+                            "is_group": 0
                         },
                         "R\u00c3\u00a9ceptions": {
-                            "account_number": 61436
+                            "account_number": 61436,
+                            "is_group": 0
                         }
                     },
                     "Publicit\u00c3\u00a9, publications et relations publiques": {
                         "account_number": 6144,
+                        "is_group": 1,
                         "Annoces et insertions": {
-                            "account_number": 61441
+                            "account_number": 61441,
+                            "is_group": 0
                         },
                         "Echantillons, catalogues et imprim\u00c3\u00a9s publicitaires": {
-                            "account_number": 61442
+                            "account_number": 61442,
+                            "is_group": 0
                         },
                         "Foires et expositions": {
-                            "account_number": 61443
+                            "account_number": 61443,
+                            "is_group": 0
                         },
                         "Primes de publicit\u00c3\u00a9": {
-                            "account_number": 61444
+                            "account_number": 61444,
+                            "is_group": 0
                         },
                         "Publications": {
-                            "account_number": 61446
+                            "account_number": 61446,
+                            "is_group": 0
                         },
                         "Cadeaux \u00c3\u00a0 la client\u00c3\u00a8le": {
-                            "account_number": 61447
+                            "account_number": 61447,
+                            "is_group": 0
                         },
                         "Autres charges de publicit\u00c3\u00a9 et relations publiques": {
-                            "account_number": 61448
+                            "account_number": 61448,
+                            "is_group": 0
                         }
                     },
                     "Frais postaus et frais de t\u00c3\u00a9l\u00c3\u00a9communications": {
                         "account_number": 6145,
+                        "is_group": 1,
                         "Frais postaux": {
-                            "account_number": 61451
+                            "account_number": 61451,
+                            "is_group": 0
                         },
                         "Frais de t\u00c3\u00a9l\u00c3\u00a9phone": {
-                            "account_number": 61455
+                            "account_number": 61455,
+                            "is_group": 0
                         },
                         "Frais de t\u00c3\u00a9lex et de t\u00c3\u00a9l\u00c3\u00a9grammes": {
-                            "account_number": 61456
+                            "account_number": 61456,
+                            "is_group": 0
                         }
                     },
                     "Cotisations et dons": {
                         "account_number": 6146,
+                        "is_group": 1,
                         "Cotisations": {
-                            "account_number": 61461
+                            "account_number": 61461,
+                            "is_group": 0
                         },
                         "Dons": {
-                            "account_number": 61462
+                            "account_number": 61462,
+                            "is_group": 0
                         }
                     },
                     "Services bancaires": {
                         "account_number": 6147,
+                        "is_group": 1,
                         "Frais d'achat et de vente des titres": {
-                            "account_number": 61471
+                            "account_number": 61471,
+                            "is_group": 0
                         },
                         "Frais sur effets de commerce": {
-                            "account_number": 61472
+                            "account_number": 61472,
+                            "is_group": 0
                         },
                         "Frais et commisions sur services bancaires": {
-                            "account_number": 61473
+                            "account_number": 61473,
+                            "is_group": 0
                         }
                     },
                     "Autres charges externes des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6148
+                        "account_number": 6148,
+                        "is_group": 0
                     },
                     "Rabais, remises et ristournes obtenus sur autres charges externes": {
-                        "account_number": 6149
+                        "account_number": 6149,
+                        "is_group": 0
                     }
                 },
                 "Imp\u00c3\u00b4ts et taxes": {
                     "account_number": 616,
+                    "is_group": 1,
                     "Imp\u00c3\u00b4ts et taxes directs": {
-                        "account_number": 6165
+                        "account_number": 6165,
+                        "is_group": 0
                     },
                     "Imp\u00c3\u00b4ts, taxes et droits assimil\u00c3\u00a9s": {
                         "account_number": 6167,
+                        "is_group": 1,
                         "Droits d\u00e2\u20ac\u2122enregistrement et de timbre": {
-                            "account_number": 61671
+                            "account_number": 61671,
+                            "is_group": 0
                         },
                         "Taxes sur les v\u00c3\u00a9hicules": {
-                            "account_number": 61673
+                            "account_number": 61673,
+                            "is_group": 0
                         },
                         "Autres imp\u00c3\u00b4ts, taxes et droits assimil\u00c3\u00a9s": {
-                            "account_number": 61678
+                            "account_number": 61678,
+                            "is_group": 0
                         }
                     },
                     "Imp\u00c3\u00b4ts et taxes des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6168
+                        "account_number": 6168,
+                        "is_group": 0
                     }
                 },
                 "Charges de personnel": {
                     "account_number": 617,
+                    "is_group": 1,
                     "R\u00c3\u00a9mun\u00c3\u00a9rations du personnel": {
                         "account_number": 6171,
+                        "is_group": 1,
                         "Appointements et salaires": {
-                            "account_number": 61711
+                            "account_number": 61711,
+                            "is_group": 0
                         },
                         "Primes et gratifications": {
-                            "account_number": 61712
+                            "account_number": 61712,
+                            "is_group": 0
                         },
                         "Indemnit\u00c3\u00a9s et avantages divers": {
-                            "account_number": 61713
+                            "account_number": 61713,
+                            "is_group": 0
                         },
                         "Commissions au personnel": {
-                            "account_number": 61714
+                            "account_number": 61714,
+                            "is_group": 0
                         },
                         "R\u00c3\u00a9mun\u00c3\u00a9rations des administrateurs, g\u00c3\u00a9rants et associ\u00c3\u00a9s": {
-                            "account_number": 61715
+                            "account_number": 61715,
+                            "is_group": 0
                         }
                     },
                     "Charges sociales": {
                         "account_number": 6174,
+                        "is_group": 1,
                         "Cotisations de s\u00c3\u00a9curit\u00c3\u00a9 sociale": {
-                            "account_number": 61741
+                            "account_number": 61741,
+                            "is_group": 0
                         },
                         "Cotisations aux caisses de retraite": {
-                            "account_number": 61742
+                            "account_number": 61742,
+                            "is_group": 0
                         },
                         "Cotisations aux mutuelles": {
-                            "account_number": 61743
+                            "account_number": 61743,
+                            "is_group": 0
                         },
                         "Prestations familiales": {
-                            "account_number": 61744
+                            "account_number": 61744,
+                            "is_group": 0
                         },
                         "Assurances accidents de travail": {
-                            "account_number": 61745
+                            "account_number": 61745,
+                            "is_group": 0
                         }
                     },
                     "Charges sociales diverses": {
                         "account_number": 6176,
+                        "is_group": 1,
                         "Assurances groupe": {
-                            "account_number": 61761
+                            "account_number": 61761,
+                            "is_group": 0
                         },
                         "Prestations de retarites": {
-                            "account_number": 61762
+                            "account_number": 61762,
+                            "is_group": 0
                         },
                         "Allocations aux \u00c5\u201cuvres sociales": {
-                            "account_number": 61763
+                            "account_number": 61763,
+                            "is_group": 0
                         },
                         "Habillement et v\u00c3\u00aatements de travail": {
-                            "account_number": 61764
+                            "account_number": 61764,
+                            "is_group": 0
                         },
                         "Indemnit\u00c3\u00a9s de pr\u00c3\u00a9avis et de licenciement": {
-                            "account_number": 61765
+                            "account_number": 61765,
+                            "is_group": 0
                         },
                         "M\u00c3\u00a9decine de travail, pharmacie": {
-                            "account_number": 61766
+                            "account_number": 61766,
+                            "is_group": 0
                         },
                         "Autres charges sociales diverses": {
-                            "account_number": 61768
+                            "account_number": 61768,
+                            "is_group": 0
                         }
                     },
                     "R\u00c3\u00a9mun\u00c3\u00a9ration de l'exploitant": {
                         "account_number": 6177,
+                        "is_group": 1,
                         "Appointements et salaires": {
-                            "account_number": 61771
+                            "account_number": 61771,
+                            "is_group": 0
                         },
                         "Charges sociales sur appointements et salaires de l\u00e2\u20ac\u2122exploitant": {
-                            "account_number": 61774
+                            "account_number": 61774,
+                            "is_group": 0
                         }
                     },
                     "Charges du personnel des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6178
+                        "account_number": 6178,
+                        "is_group": 0
                     }
                 },
                 "Autres charges d'exploitation": {
                     "account_number": 618,
+                    "is_group": 1,
                     "Jetons de pr\u00c3\u00a9sence": {
-                        "account_number": 6181
+                        "account_number": 6181,
+                        "is_group": 0
                     },
                     "Pertes sur cr\u00c3\u00a9ances irr\u00c3\u00a9couvrables": {
-                        "account_number": 6182
+                        "account_number": 6182,
+                        "is_group": 0
                     },
                     "Pertes sur op\u00c3\u00a9rations faites en commun": {
-                        "account_number": 6185
+                        "account_number": 6185,
+                        "is_group": 0
                     },
                     "Transfert de profits sur op\u00c3\u00a9rations faites en commun": {
-                        "account_number": 6186
+                        "account_number": 6186,
+                        "is_group": 0
                     },
                     "Autres charges d\u00e2\u20ac\u2122exploitation des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6188
+                        "account_number": 6188,
+                        "is_group": 0
                     }
                 },
                 "Dotations d\u00e2\u20ac\u2122exploitation": {
                     "account_number": 619,
+                    "is_group": 1,
                     "Dotations d\u00e2\u20ac\u2122exploitation aux amortissements de l\u00e2\u20ac\u2122immobilisation en non valeur": {
                         "account_number": 6191,
+                        "is_group": 1,
                         "D.E.A. des frais pr\u00c3\u00a9liminaires": {
-                            "account_number": 61911
+                            "account_number": 61911,
+                            "is_group": 0
                         },
                         "D.E.A. des charges \u00c3\u00a0 r\u00c3\u00a9partir": {
-                            "account_number": 61912
+                            "account_number": 61912,
+                            "is_group": 0
                         }
                     },
                     "Dotations d\u00e2\u20ac\u2122exploitation aux amortissements des immobilisations incorporelles": {
                         "account_number": 6192,
+                        "is_group": 1,
                         "D.E.A. de l\u00e2\u20ac\u2122immobilisation en recherche et d\u00c3\u00a9veloppement": {
-                            "account_number": 61921
+                            "account_number": 61921,
+                            "is_group": 0
                         },
                         "D.E.A. des brevets, marques, droits et valeurs similaires": {
-                            "account_number": 61922
+                            "account_number": 61922,
+                            "is_group": 0
                         },
                         "D.E.A. du fonds commercial": {
-                            "account_number": 61923
+                            "account_number": 61923,
+                            "is_group": 0
                         },
                         "D.E.A. des autres immobilisations incorporelles": {
-                            "account_number": 61928
+                            "account_number": 61928,
+                            "is_group": 0
                         }
                     },
                     "Dotations d\u00e2\u20ac\u2122exploitation aux amortissements des immobilisations corporelles": {
                         "account_number": 6193,
+                        "is_group": 1,
                         "D.E.A. des terrains": {
-                            "account_number": 61931
+                            "account_number": 61931,
+                            "is_group": 0
                         },
                         "D.E.A. des constructions": {
-                            "account_number": 61932
+                            "account_number": 61932,
+                            "is_group": 0
                         },
                         "D.E.A. des installations techniques, mat\u00c3\u00a9riel et outillage": {
-                            "account_number": 61933
+                            "account_number": 61933,
+                            "is_group": 0
                         },
                         "D.E.A. du mat\u00c3\u00a9riel de transport": {
-                            "account_number": 61934
+                            "account_number": 61934,
+                            "is_group": 0
                         },
                         "D.E.A. des mobiliers, mat\u00c3\u00a9riels de bureau et am\u00c3\u00a9nagements divers": {
-                            "account_number": 61935
+                            "account_number": 61935,
+                            "is_group": 0
                         },
                         "D.E.A. des autres immobilisations corporelles": {
-                            "account_number": 61938
+                            "account_number": 61938,
+                            "is_group": 0
                         }
                     },
                     "Dotations d\u00e2\u20ac\u2122exploitation aux provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des immobilisations": {
                         "account_number": 6194,
+                        "is_group": 1,
                         "D.E.P. pour d\u00c3\u00a9pr\u00c3\u00a9ciation des immobilisations incorporelles": {
-                            "account_number": 61942
+                            "account_number": 61942,
+                            "is_group": 0
                         },
                         "D.E.P. pour d\u00c3\u00a9pr\u00c3\u00a9ciation des immobilisations corporelles": {
-                            "account_number": 61943
+                            "account_number": 61943,
+                            "is_group": 0
                         }
                     },
                     "Dotations d\u00e2\u20ac\u2122exploitation aux provisions pour risques et charges": {
                         "account_number": 6195,
+                        "is_group": 1,
                         "D.E.P. pour risques et charges durables": {
-                            "account_number": 61955
+                            "account_number": 61955,
+                            "is_group": 0
                         }
                     },
                     "Dotations d\u00e2\u20ac\u2122exploitation aux provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciations de l\u00e2\u20ac\u2122actif circulant": {
                         "account_number": 6196,
+                        "is_group": 1,
                         "D.E.P. pour d\u00c3\u00a9pr\u00c3\u00a9ciation des stocks": {
-                            "account_number": 61961
+                            "account_number": 61961,
+                            "is_group": 0
                         },
                         "D.E.P. pour d\u00c3\u00a9pr\u00c3\u00a9ciation des cr\u00c3\u00a9ances de l\u00e2\u20ac\u2122actif circulant": {
-                            "account_number": 61964
+                            "account_number": 61964,
+                            "is_group": 0
                         }
                     },
                     "Dotations d\u00e2\u20ac\u2122exploitation des exercices ant\u00c3\u00a9rieurs": {
                         "account_number": 6198,
+                        "is_group": 1,
                         "D.E. aux amortissements des exercices ant\u00c3\u00a9rieurs": {
-                            "account_number": 61981
+                            "account_number": 61981,
+                            "is_group": 0
                         },
                         "D.E. aux provisions des exercices ant\u00c3\u00a9rieurs": {
-                            "account_number": 61984
+                            "account_number": 61984,
+                            "is_group": 0
                         }
                     }
                 }
             },
             "CHARGES FINANCIERES": {
                 "account_number": 63,
+                "is_group": 1,
                 "Charges d\u00e2\u20ac\u2122int\u00c3\u00a9r\u00c3\u00aats": {
                     "account_number": 631,
+                    "is_group": 1,
                     "Int\u00c3\u00a9r\u00c3\u00aats des emprunts et dettes": {
                         "account_number": 6311,
+                        "is_group": 1,
                         "Int\u00c3\u00a9r\u00c3\u00aats des emprunts": {
-                            "account_number": 63111
+                            "account_number": 63111,
+                            "is_group": 0
                         },
                         "Int\u00c3\u00a9r\u00c3\u00aats des dettes rattach\u00c3\u00a9es \u00c3\u00a0 des participations": {
-                            "account_number": 63113
+                            "account_number": 63113,
+                            "is_group": 0
                         },
                         "Int\u00c3\u00a9r\u00c3\u00aats des comptes courants et d\u00c3\u00a9p\u00c3\u00b4ts cr\u00c3\u00a9diteurs": {
-                            "account_number": 63114
+                            "account_number": 63114,
+                            "is_group": 0
                         },
                         "Int\u00c3\u00a9r\u00c3\u00aats bancaires et sur op\u00c3\u00a9rations de financement": {
-                            "account_number": 63115
+                            "account_number": 63115,
+                            "is_group": 0
                         },
                         "Autres int\u00c3\u00a9r\u00c3\u00aats des emprunts et dettes": {
-                            "account_number": 63118
+                            "account_number": 63118,
+                            "is_group": 0
                         }
                     },
                     "Charges d\u00e2\u20ac\u2122int\u00c3\u00a9r\u00c3\u00aats des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6318
+                        "account_number": 6318,
+                        "is_group": 0
                     }
                 },
                 "Pertes de change": {
                     "account_number": 633,
+                    "is_group": 1,
                     "Pertes de change propres \u00c3\u00a0 l\u00e2\u20ac\u2122exercice": {
-                        "account_number": 6331
+                        "account_number": 6331,
+                        "is_group": 0
                     },
                     "Pertes de change des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6338
+                        "account_number": 6338,
+                        "is_group": 0
                     }
                 },
                 "Autres charges financi\u00c3\u00a8res": {
                     "account_number": 638,
+                    "is_group": 1,
                     "Pertes sur cr\u00c3\u00a9ances li\u00c3\u00a9es \u00c3\u00a0 des participations": {
-                        "account_number": 6382
+                        "account_number": 6382,
+                        "is_group": 0
                     },
                     "Charges nettes sur cession de titres et valeurs de placement": {
-                        "account_number": 6385
+                        "account_number": 6385,
+                        "is_group": 0
                     },
                     "Escomptes accord\u00c3\u00a9s": {
-                        "account_number": 6386
+                        "account_number": 6386,
+                        "is_group": 0
                     },
                     "Autres charges financi\u00c3\u00a8res des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6388
+                        "account_number": 6388,
+                        "is_group": 0
                     }
                 },
                 "Dotations financi\u00c3\u00a8res": {
                     "account_number": 639,
+                    "is_group": 1,
                     "Dotations aux amortissements des primes de remboursement des obligations": {
-                        "account_number": 6391
+                        "account_number": 6391,
+                        "is_group": 0
                     },
                     "Dotations aux provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciations des immobilisations financi\u00c3\u00a8res": {
-                        "account_number": 6392
+                        "account_number": 6392,
+                        "is_group": 0
                     },
                     "Dotations aux provisions pour risques et charges financi\u00c3\u00a8res": {
-                        "account_number": 6393
+                        "account_number": 6393,
+                        "is_group": 0
                     },
                     "Dotation aux provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des titres et valeurs de placement": {
-                        "account_number": 6394
+                        "account_number": 6394,
+                        "is_group": 0
                     },
                     "Dotations financi\u00c3\u00a8res des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6398
+                        "account_number": 6398,
+                        "is_group": 0
                     }
                 }
             },
             "CHARGES NON COURANTES": {
                 "account_number": 65,
+                "is_group": 1,
                 "Valeurs nettes d\u00e2\u20ac\u2122amortissements des immobilisations c\u00c3\u00a9d\u00c3\u00a9es ( V.N.A )": {
                     "account_number": 651,
+                    "is_group": 1,
                     "VNA des immobilisations incorporelles c\u00c3\u00a9d\u00c3\u00a9es": {
-                        "account_number": 6512
+                        "account_number": 6512,
+                        "is_group": 0
                     },
                     "VNA des immobilisations corporelles c\u00c3\u00a9d\u00c3\u00a9es": {
-                        "account_number": 6513
+                        "account_number": 6513,
+                        "is_group": 0
                     },
                     "VNA provisions des immobilisations financi\u00c3\u00a8res c\u00c3\u00a9d\u00c3\u00a9es (droits de propri\u00c3\u00a9t\u00c3\u00a9)": {
-                        "account_number": 6514
+                        "account_number": 6514,
+                        "is_group": 0
                     },
                     "VNA des immobilisations c\u00c3\u00a9d\u00c3\u00a9es des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6518
+                        "account_number": 6518,
+                        "is_group": 0
                     }
                 },
                 "Subventions accord\u00c3\u00a9es": {
                     "account_number": 656,
+                    "is_group": 1,
                     "Subventions accord\u00c3\u00a9es de l\u00e2\u20ac\u2122exercice": {
-                        "account_number": 6561
+                        "account_number": 6561,
+                        "is_group": 0
                     },
                     "Subventions accord\u00c3\u00a9es des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6568
+                        "account_number": 6568,
+                        "is_group": 0
                     }
                 },
                 "Autres charges non courantes": {
                     "account_number": 658,
+                    "is_group": 1,
                     "P\u00c3\u00a9nalit\u00c3\u00a9s sur march\u00c3\u00a9s et d\u00c3\u00a9dits": {
                         "account_number": 6581,
+                        "is_group": 1,
                         "P\u00c3\u00a9nalit\u00c3\u00a9s sur march\u00c3\u00a9s": {
-                            "account_number": 65811
+                            "account_number": 65811,
+                            "is_group": 0
                         },
                         "D\u00c3\u00a9dits": {
-                            "account_number": 65812
+                            "account_number": 65812,
+                            "is_group": 0
                         }
                     },
                     "Rappels d\u00e2\u20ac\u2122imp\u00c3\u00b4ts (autres qu\u00e2\u20ac\u2122imp\u00c3\u00b4ts sur les r\u00c3\u00a9sultats)": {
-                        "account_number": 6582
+                        "account_number": 6582,
+                        "is_group": 0
                     },
                     "P\u00c3\u00a9nalit\u00c3\u00a9s et amendes fiscales ou p\u00c3\u00a9nales": {
                         "account_number": 6583,
+                        "is_group": 1,
                         "P\u00c3\u00a9nalit\u00c3\u00a9s et amendes fiscales": {
-                            "account_number": 65831
+                            "account_number": 65831,
+                            "is_group": 0
                         },
                         "P\u00c3\u00a9nalit\u00c3\u00a9s et amendes p\u00c3\u00a9nales": {
-                            "account_number": 65833
+                            "account_number": 65833,
+                            "is_group": 0
                         }
                     },
                     "Cr\u00c3\u00a9ances devenues irr\u00c3\u00a9couvrables": {
-                        "account_number": 6585
+                        "account_number": 6585,
+                        "is_group": 0
                     },
                     "Dons, lib\u00c3\u00a9ralit\u00c3\u00a9s et lots": {
                         "account_number": 6586,
+                        "is_group": 1,
                         "Dons": {
-                            "account_number": 65861
+                            "account_number": 65861,
+                            "is_group": 0
                         },
                         "Lib\u00c3\u00a9ralit\u00c3\u00a9s": {
-                            "account_number": 65862
+                            "account_number": 65862,
+                            "is_group": 0
                         },
                         "Lots": {
-                            "account_number": 65863
+                            "account_number": 65863,
+                            "is_group": 0
                         }
                     },
                     "Autres charges non courantes des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6588
+                        "account_number": 6588,
+                        "is_group": 0
                     }
                 },
                 "Dotations non courantes": {
                     "account_number": 659,
+                    "is_group": 1,
                     "Dotations aux amortissements exceptionnels des immobilisations": {
                         "account_number": 6591,
+                        "is_group": 1,
                         "D.A.E. de l\u00e2\u20ac\u2122immobilisation en non-valeurs": {
-                            "account_number": 65911
+                            "account_number": 65911,
+                            "is_group": 0
                         },
                         "D.A.E. des immobilisations incorporelles": {
-                            "account_number": 65912
+                            "account_number": 65912,
+                            "is_group": 0
                         },
                         "D.A.E. des immobilisations corporelles": {
-                            "account_number": 65913
+                            "account_number": 65913,
+                            "is_group": 0
                         }
                     },
                     "Dotations non courantes aux provisions r\u00c3\u00a9glement\u00c3\u00a9es": {
                         "account_number": 6594,
+                        "is_group": 1,
                         "D.N.C. pour amortissements d\u00c3\u00a9rogatoires": {
-                            "account_number": 65941
+                            "account_number": 65941,
+                            "is_group": 0
                         },
                         "D.N.C. pour plus-values en instance d'imposition": {
-                            "account_number": 65942
+                            "account_number": 65942,
+                            "is_group": 0
                         },
                         "D.N.C. pour investissements": {
-                            "account_number": 65944
+                            "account_number": 65944,
+                            "is_group": 0
                         },
                         "D.N.C. pour reconstitution de gisements": {
-                            "account_number": 65945
+                            "account_number": 65945,
+                            "is_group": 0
                         },
                         "D.N.C. pour acquisition et construction de logements": {
-                            "account_number": 65946
+                            "account_number": 65946,
+                            "is_group": 0
                         }
                     },
                     "Dotations non courantes aux provisions pour risques et charges": {
                         "account_number": 6595,
+                        "is_group": 1,
                         "D.N.C. aux provisions pour risques et charges durables": {
-                            "account_number": 65955
+                            "account_number": 65955,
+                            "is_group": 0
                         },
                         "D.N.C. aux provisions pour risques et charges momentan\u00c3\u00a9s": {
-                            "account_number": 65957
+                            "account_number": 65957,
+                            "is_group": 0
                         }
                     },
                     "Dotations non courantes aux provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation": {
                         "account_number": 6596,
+                        "is_group": 1,
                         "D.N.C. aux provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation de l\u00e2\u20ac\u2122actif immobilis\u00c3\u00a9": {
-                            "account_number": 65962
+                            "account_number": 65962,
+                            "is_group": 0
                         },
                         "D.N.C. aux provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation de l\u00e2\u20ac\u2122actif circulant": {
-                            "account_number": 65963
+                            "account_number": 65963,
+                            "is_group": 0
                         }
                     },
                     "Dotations non courantes des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 6598
+                        "account_number": 6598,
+                        "is_group": 0
                     }
                 }
             },
             "IMPOTS SUR LES RESULTATS": {
                 "account_number": 67,
+                "is_group": 1,
                 "Imp\u00c3\u00b4ts sur les r\u00c3\u00a9sulatats": {
                     "account_number": 670,
+                    "is_group": 1,
                     "Imp\u00c3\u00b4ts sur les b\u00c3\u00a9n\u00c3\u00a9fices": {
-                        "account_number": 6701
+                        "account_number": 6701,
+                        "is_group": 0
                     },
                     "Imposition minimale annuelle des soci\u00c3\u00a9t\u00c3\u00a9s": {
-                        "account_number": 6705
+                        "account_number": 6705,
+                        "is_group": 0
                     },
                     "Rappels et d\u00c3\u00a9gr\u00c3\u00a8vements d\u00e2\u20ac\u2122imp\u00c3\u00b4ts sur les r\u00c3\u00a9sultats": {
-                        "account_number": 6708
+                        "account_number": 6708,
+                        "is_group": 0
                     }
                 }
             }
         },
         "7 - COMPTES DE PRODUITS": {
             "account_number": 7,
-            "is_root": 1,
+            "root_type": "Income",
             "is_group": 1,
             "PRODUITS D\u00e2\u20ac\u2122EXPLOITATION": {
                 "account_number": 71,
+                "is_group": 1,
                 "Ventes de marchandises": {
                     "account_number": 711,
+                    "is_group": 1,
                     "Ventes de marchandises au Maroc": {
-                        "account_number": 7111
+                        "account_number": 7111,
+                        "is_group": 0
                     },
                     "Ventes de marchandises \u00c3\u00a0 l\u00e2\u20ac\u2122\u00c3\u00a9tranger": {
-                        "account_number": 7113
+                        "account_number": 7113,
+                        "is_group": 0
                     },
                     "Ventes de marchandises des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7118
+                        "account_number": 7118,
+                        "is_group": 0
                     },
                     "Rabais, remises et ristournes accord\u00c3\u00a9s par l\u00e2\u20ac\u2122entreprise": {
-                        "account_number": 7119
+                        "account_number": 7119,
+                        "is_group": 0
                     }
                 },
                 "Ventes de biens et services produits": {
                     "account_number": 712,
+                    "is_group": 1,
                     "Ventes de biens produits au Maroc": {
                         "account_number": 7121,
+                        "is_group": 1,
                         "Ventes de produits finis": {
-                            "account_number": 71211
+                            "account_number": 71211,
+                            "is_group": 0
                         },
                         "Ventes de produits interm\u00c3\u00a9diaires": {
-                            "account_number": 71212
+                            "account_number": 71212,
+                            "is_group": 0
                         },
                         "Ventes de produits r\u00c3\u00a9siduels": {
-                            "account_number": 71217
+                            "account_number": 71217,
+                            "is_group": 0
                         }
                     },
                     "Ventes de biens produits \u00c3\u00a0 l\u00e2\u20ac\u2122\u00c3\u00a9tranger": {
                         "account_number": 7122,
+                        "is_group": 1,
                         "Ventes de produits finis": {
-                            "account_number": 71221
+                            "account_number": 71221,
+                            "is_group": 0
                         },
                         "Ventes de produits interm\u00c3\u00a9diaires": {
-                            "account_number": 71222
+                            "account_number": 71222,
+                            "is_group": 0
                         }
                     },
                     "Ventes de services produits au Maroc": {
                         "account_number": 7124,
+                        "is_group": 1,
                         "Travaux": {
-                            "account_number": 71241
+                            "account_number": 71241,
+                            "is_group": 0
                         },
                         "Etudes": {
-                            "account_number": 71242
+                            "account_number": 71242,
+                            "is_group": 0
                         },
                         "Prestations de services": {
-                            "account_number": 71243
+                            "account_number": 71243,
+                            "is_group": 0
                         }
                     },
                     "Ventes de services produits \u00c3\u00a0 l'\u00c3\u00a9tranger": {
                         "account_number": 7125,
+                        "is_group": 1,
                         "Travaux": {
-                            "account_number": 71251
+                            "account_number": 71251,
+                            "is_group": 0
                         },
                         "Etudes": {
-                            "account_number": 71252
+                            "account_number": 71252,
+                            "is_group": 0
                         },
                         "Prestations de services": {
-                            "account_number": 71253
+                            "account_number": 71253,
+                            "is_group": 0
                         }
                     },
                     "Redevances pour brevets, marques, droits et valeurs similaires": {
-                        "account_number": 7126
+                        "account_number": 7126,
+                        "is_group": 0
                     },
                     "Ventes de produits accessoires": {
                         "account_number": 7127,
+                        "is_group": 1,
                         "Locations divers es re\u00c3\u00a7ues": {
-                            "account_number": 71271
+                            "account_number": 71271,
+                            "is_group": 0
                         },
                         "Commissions et courtages re\u00c3\u00a7us": {
-                            "account_number": 71272
+                            "account_number": 71272,
+                            "is_group": 0
                         },
                         "Produits de services exploit\u00c3\u00a9s dans l'int\u00c3\u00a9r\u00c3\u00aat du personnel": {
-                            "account_number": 71273
+                            "account_number": 71273,
+                            "is_group": 0
                         },
                         "Bonis sur reprises d'emballages consign\u00c3\u00a9s": {
-                            "account_number": 71275
+                            "account_number": 71275,
+                            "is_group": 0
                         },
                         "Ports et frais accessoires factur\u00c3\u00a9s": {
-                            "account_number": 71276
+                            "account_number": 71276,
+                            "is_group": 0
                         },
                         "Autres ventes et produits accessoires": {
-                            "account_number": 71278
+                            "account_number": 71278,
+                            "is_group": 0
                         }
                     },
                     "Ventes de biens et services produits des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7128
+                        "account_number": 7128,
+                        "is_group": 0
                     },
                     "Rabais, remises et ristournes accord\u00c3\u00a9s par l\u00e2\u20ac\u2122entreprise": {
                         "account_number": 7129,
+                        "is_group": 1,
                         "R,R,R accord\u00c3\u00a9es sur ventes au Maroc des biens produits": {
-                            "account_number": 71291
+                            "account_number": 71291,
+                            "is_group": 0
                         },
                         "R,R,R accord\u00c3\u00a9es sur ventes \u00c3\u00a0 l'\u00c3\u00a9tranger des biens produits": {
-                            "account_number": 71292
+                            "account_number": 71292,
+                            "is_group": 0
                         },
                         "R,R,R accord\u00c3\u00a9es sur ventes au Maroc des services produits": {
-                            "account_number": 71294
+                            "account_number": 71294,
+                            "is_group": 0
                         },
                         "R,R,R accord\u00c3\u00a9es sur ventes \u00c3\u00a0 l'\u00c3\u00a9tranger des services produits": {
-                            "account_number": 71295
+                            "account_number": 71295,
+                            "is_group": 0
                         },
                         "Rabais, remises et ristournes accord\u00c3\u00a9s sur ventes de B & S produits des exercices ant\u00c3\u00a9rieurs": {
-                            "account_number": 71298
+                            "account_number": 71298,
+                            "is_group": 0
                         }
                     }
                 },
                 "Variation des stocks de produits": {
                     "account_number": 713,
+                    "is_group": 1,
                     "Variation des stocks de produits en cours": {
                         "account_number": 7131,
+                        "is_group": 1,
                         "Variation des stocks de biens produits en cours": {
-                            "account_number": 71311
+                            "account_number": 71311,
+                            "is_group": 0
                         },
                         "Variation des stocks de produits interm\u00c3\u00a9diaires en cours": {
-                            "account_number": 71312
+                            "account_number": 71312,
+                            "is_group": 0
                         },
                         "Variation des stocks de produits r\u00c3\u00a9siduels en cours": {
-                            "account_number": 71317
+                            "account_number": 71317,
+                            "is_group": 0
                         }
                     },
                     "Variation des stocks de biens produits": {
                         "account_number": 7132,
+                        "is_group": 1,
                         "Variation des stocks de produits finis": {
-                            "account_number": 71321
+                            "account_number": 71321,
+                            "is_group": 0
                         },
                         "Variation des stocks de produits interm\u00c3\u00a9diaires": {
-                            "account_number": 71322
+                            "account_number": 71322,
+                            "is_group": 0
                         },
                         "Variation des stocks de produits r\u00c3\u00a9siduels": {
-                            "account_number": 71327
+                            "account_number": 71327,
+                            "is_group": 0
                         }
                     },
                     "Variation des stocks de services en cours": {
                         "account_number": 7134,
+                        "is_group": 1,
                         "Variation des stocks de travaux en cours": {
-                            "account_number": 71341
+                            "account_number": 71341,
+                            "is_group": 0
                         },
                         "Variation des stocks d'\u00c3\u00a9tudes en cours": {
-                            "account_number": 71342
+                            "account_number": 71342,
+                            "is_group": 0
                         },
                         "Variation des stocks de prestations en cours": {
-                            "account_number": 71343
+                            "account_number": 71343,
+                            "is_group": 0
                         }
                     }
                 },
                 "Immobilisations produites par l\u00e2\u20ac\u2122entreprise pour elle m\u00c3\u00aame": {
                     "account_number": 714,
+                    "is_group": 1,
                     "Immobilisation en non valeurs produite": {
-                        "account_number": 7141
+                        "account_number": 7141,
+                        "is_group": 0
                     },
                     "Immobilisations incorporelles produites": {
-                        "account_number": 7142
+                        "account_number": 7142,
+                        "is_group": 0
                     },
                     "Immobilisations corporelles produites": {
-                        "account_number": 7143
+                        "account_number": 7143,
+                        "is_group": 0
                     },
                     "Immobilisations produites des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7148
+                        "account_number": 7148,
+                        "is_group": 0
                     }
                 },
                 "Subventions d\u00e2\u20ac\u2122exploitation": {
                     "account_number": 716,
+                    "is_group": 1,
                     "Subventions d\u00e2\u20ac\u2122exploitations re\u00c3\u00a7ues de l\u00e2\u20ac\u2122exercice": {
-                        "account_number": 7161
+                        "account_number": 7161,
+                        "is_group": 0
                     },
                     "Subventions d\u00e2\u20ac\u2122exploitation re\u00c3\u00a7ues des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7168
+                        "account_number": 7168,
+                        "is_group": 0
                     }
                 },
                 "Autres produits d\u00e2\u20ac\u2122exploitation": {
                     "account_number": 718,
+                    "is_group": 1,
                     "Jetons de pr\u00c3\u00a9sence re\u00c3\u00a7us": {
-                        "account_number": 7181
+                        "account_number": 7181,
+                        "is_group": 0
                     },
                     "Revenus des immeubles non affect\u00c3\u00a9s \u00c3\u00a0 l\u00e2\u20ac\u2122exploitation": {
-                        "account_number": 7182
+                        "account_number": 7182,
+                        "is_group": 0
                     },
                     "Profits sur op\u00c3\u00a9rations faites en commun": {
-                        "account_number": 7185
+                        "account_number": 7185,
+                        "is_group": 0
                     },
                     "Transfert de pertes sur op\u00c3\u00a9rations faites en commun": {
-                        "account_number": 7186
+                        "account_number": 7186,
+                        "is_group": 0
                     },
                     "Autres produits d\u00e2\u20ac\u2122exploitation des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7188
+                        "account_number": 7188,
+                        "is_group": 0
                     }
                 },
                 "Reprise d\u00e2\u20ac\u2122exploitation, transferts de charges": {
                     "account_number": 719,
+                    "is_group": 1,
                     "Reprises sur amortissements de l\u00e2\u20ac\u2122immobilisation en non valeurs": {
-                        "account_number": 7191
+                        "account_number": 7191,
+                        "is_group": 0
                     },
                     "Reprises sur amortissements des immobilisations incorporelles": {
-                        "account_number": 7192
+                        "account_number": 7192,
+                        "is_group": 0
                     },
                     "Reprises sur amortissements des immobilisations corporelles": {
-                        "account_number": 7193
+                        "account_number": 7193,
+                        "is_group": 0
                     },
                     "Reprises sur provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des immobilisations": {
-                        "account_number": 7194
+                        "account_number": 7194,
+                        "is_group": 0
                     },
                     "Reprises sur provisions pour risques et charges": {
-                        "account_number": 7195
+                        "account_number": 7195,
+                        "is_group": 0
                     },
                     "Reprises sur provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation de l\u00e2\u20ac\u2122actif circulant": {
-                        "account_number": 7196
+                        "account_number": 7196,
+                        "is_group": 0
                     },
                     "Transferts des charges d\u00e2\u20ac\u2122exploitation": {
                         "account_number": 7197,
+                        "is_group": 1,
                         "T,C,E - Achats de marchandises": {
-                            "account_number": 71971
+                            "account_number": 71971,
+                            "is_group": 0
                         },
                         "T,C,E - Achats consomm\u00c3\u00a9s de mati\u00c3\u00a8res et fournitures": {
-                            "account_number": 71972
+                            "account_number": 71972,
+                            "is_group": 0
                         },
                         "T,C,E - Autes charges externes": {
-                            "account_number": 71973
+                            "account_number": 71973,
+                            "is_group": 0
                         },
                         "T,C,E - Imp\u00c3\u00b4ts et taxes": {
-                            "account_number": 71975
+                            "account_number": 71975,
+                            "is_group": 0
                         },
                         "T,C,E - Charges de personnel": {
-                            "account_number": 71976
+                            "account_number": 71976,
+                            "is_group": 0
                         },
                         "T,C,E - Autres charges d'exploitation": {
-                            "account_number": 71978
+                            "account_number": 71978,
+                            "is_group": 0
                         }
                     },
                     "Reprises sur amortissements et provisions des exercices ant\u00c3\u00a9rieurs": {
                         "account_number": 7198,
+                        "is_group": 1,
                         "Reprises sur amortissements des exercices ant\u00c3\u00a9rieurs": {
-                            "account_number": 71981
+                            "account_number": 71981,
+                            "is_group": 0
                         },
                         "Reprises sur provisions des exercices ant\u00c3\u00a9rieurs": {
-                            "account_number": 71984
+                            "account_number": 71984,
+                            "is_group": 0
                         }
                     }
                 }
             },
             "PRODUITS FINANCIERS": {
                 "account_number": 73,
+                "is_group": 1,
                 "Produits des titres de participation et des autres titres immobilis\u00c3\u00a9s": {
                     "account_number": 732,
+                    "is_group": 1,
                     "Revenus des titres de participation": {
-                        "account_number": 7321
+                        "account_number": 7321,
+                        "is_group": 0
                     },
                     "Revenus des titres immobilis\u00c3\u00a9s": {
-                        "account_number": 7325
+                        "account_number": 7325,
+                        "is_group": 0
                     },
                     "Produits des titres de participation et des autres titres immobilis\u00c3\u00a9s des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7328
+                        "account_number": 7328,
+                        "is_group": 0
                     }
                 },
                 "Gains de change": {
                     "account_number": 733,
+                    "is_group": 1,
                     "Gains de change propres \u00c3\u00a0 l\u00e2\u20ac\u2122exercice": {
-                        "account_number": 7331
+                        "account_number": 7331,
+                        "is_group": 0
                     },
                     "Gains de change des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7338
+                        "account_number": 7338,
+                        "is_group": 0
                     }
                 },
                 "Int\u00c3\u00a9r\u00c3\u00aats et autres produits financiers": {
                     "account_number": 738,
+                    "is_group": 1,
                     "Int\u00c3\u00a9r\u00c3\u00aats et produits assimil\u00c3\u00a9s": {
                         "account_number": 7381,
+                        "is_group": 1,
                         "Int\u00c3\u00a9r\u00c3\u00aats des pr\u00c3\u00aats": {
-                            "account_number": 73811
+                            "account_number": 73811,
+                            "is_group": 0
                         },
                         "Revenus des autres cr\u00c3\u00a9ances financi\u00c3\u00a8res": {
-                            "account_number": 73813
+                            "account_number": 73813,
+                            "is_group": 0
                         }
                     },
                     "Revenus des cr\u00c3\u00a9ances rattach\u00c3\u00a9es \u00c3\u00a0 des participations": {
-                        "account_number": 7383
+                        "account_number": 7383,
+                        "is_group": 0
                     },
                     "Revenus des titres et valeurs de placement": {
-                        "account_number": 7384
+                        "account_number": 7384,
+                        "is_group": 0
                     },
                     "Produits nets sur cessions de titres et valeurs de placement": {
-                        "account_number": 7385
+                        "account_number": 7385,
+                        "is_group": 0
                     },
                     "Escomptes obtenus": {
-                        "account_number": 7386
+                        "account_number": 7386,
+                        "is_group": 0
                     },
                     "Int\u00c3\u00a9r\u00c3\u00aats et autres produits financiers des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7388
+                        "account_number": 7388,
+                        "is_group": 0
                     }
                 },
                 "Reprises financi\u00c3\u00a8res, transferts de charges": {
                     "account_number": 739,
+                    "is_group": 1,
                     "Reprises sur amortissements des primes de remboursement des obligations": {
-                        "account_number": 7391
+                        "account_number": 7391,
+                        "is_group": 0
                     },
                     "Reprises sur provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des immobilisations financi\u00c3\u00a8res": {
-                        "account_number": 7392
+                        "account_number": 7392,
+                        "is_group": 0
                     },
                     "Reprises sur provisions pour risques et charges financi\u00c3\u00a8res": {
-                        "account_number": 7393
+                        "account_number": 7393,
+                        "is_group": 0
                     },
                     "Reprise sur provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des titres et valeurs de placement": {
-                        "account_number": 7394
+                        "account_number": 7394,
+                        "is_group": 0
                     },
                     "Reprises sur provisions pour d\u00c3\u00a9pr\u00c3\u00a9ciation des comptes de tr\u00c3\u00a9sorerie": {
-                        "account_number": 7396
+                        "account_number": 7396,
+                        "is_group": 0
                     },
                     "Transfert de charges financi\u00c3\u00a8res": {
                         "account_number": 7397,
+                        "is_group": 1,
                         "Transfert - Charges d'int\u00c3\u00a9r\u00c3\u00aats": {
-                            "account_number": 73971
+                            "account_number": 73971,
+                            "is_group": 0
                         },
                         "Transfert - Pertes de change": {
-                            "account_number": 73973
+                            "account_number": 73973,
+                            "is_group": 0
                         },
                         "Transfert - Autres charges financi\u00c3\u00a8res": {
-                            "account_number": 73978
+                            "account_number": 73978,
+                            "is_group": 0
                         }
                     },
                     "Reprises sur dotations financi\u00c3\u00a8res des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7398
+                        "account_number": 7398,
+                        "is_group": 0
                     }
                 }
             },
             "PRODUITS NON COURANTS": {
                 "account_number": 75,
+                "is_group": 1,
                 "Produits des cessions d\u00e2\u20ac\u2122immobilisations": {
                     "account_number": 751,
+                    "is_group": 1,
                     "Produits des cessions des immobilisations incorporelles": {
-                        "account_number": 7512
+                        "account_number": 7512,
+                        "is_group": 0
                     },
                     "Produits des cessions des immobilisations corporelles": {
-                        "account_number": 7513
+                        "account_number": 7513,
+                        "is_group": 0
                     },
                     "Produits des cessions des immobilisations financi\u00c3\u00a8res (droits de propri\u00c3\u00a9t\u00c3\u00a9)": {
-                        "account_number": 7514
+                        "account_number": 7514,
+                        "is_group": 0
                     },
                     "Produits des cessions des immobilisations des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7518
+                        "account_number": 7518,
+                        "is_group": 0
                     }
                 },
                 "Subventions d\u00e2\u20ac\u2122\u00c3\u00a9quilibre": {
                     "account_number": 756,
+                    "is_group": 1,
                     "Subventions d\u00e2\u20ac\u2122\u00c3\u00a9quilibre re\u00c3\u00a7ues de l\u00e2\u20ac\u2122exercice": {
-                        "account_number": 7561
+                        "account_number": 7561,
+                        "is_group": 0
                     },
                     "Subventions d\u00e2\u20ac\u2122\u00c3\u00a9quilibre re\u00c3\u00a7ues des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7568
+                        "account_number": 7568,
+                        "is_group": 0
                     }
                 },
                 "Reprise sur subventions d\u00e2\u20ac\u2122investissements": {
                     "account_number": 757,
+                    "is_group": 1,
                     "Reprises sur subventions d\u00e2\u20ac\u2122investissement de l\u00e2\u20ac\u2122exercice": {
-                        "account_number": 7577
+                        "account_number": 7577,
+                        "is_group": 0
                     },
                     "Reprises sur subventions d\u00e2\u20ac\u2122investissement des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7578
+                        "account_number": 7578,
+                        "is_group": 0
                     }
                 },
                 "Autres produits non courants": {
                     "account_number": 758,
+                    "is_group": 1,
                     "P\u00c3\u00a9nalit\u00c3\u00a9s et d\u00c3\u00a9dits re\u00c3\u00a7us": {
                         "account_number": 7581,
+                        "is_group": 1,
                         "P\u00c3\u00a9nalit\u00c3\u00a9s re\u00c3\u00a7ues sur march\u00c3\u00a9s": {
-                            "account_number": 75811
+                            "account_number": 75811,
+                            "is_group": 0
                         },
                         "D\u00c3\u00a9dits re\u00c3\u00a7us": {
-                            "account_number": 75812
+                            "account_number": 75812,
+                            "is_group": 0
                         }
                     },
                     "D\u00c3\u00a9gr\u00c3\u00a8vement d\u00e2\u20ac\u2122imp\u00c3\u00b4ts (autres qu\u00e2\u20ac\u2122imp\u00c3\u00b4ts sur les r\u00c3\u00a9sultats)": {
-                        "account_number": 7582
+                        "account_number": 7582,
+                        "is_group": 0
                     },
                     "Rentr\u00c3\u00a9es sur cr\u00c3\u00a9ances sold\u00c3\u00a9es": {
-                        "account_number": 7585
+                        "account_number": 7585,
+                        "is_group": 0
                     },
                     "Dons, lib\u00c3\u00a9ralit\u00c3\u00a9s et lots re\u00c3\u00a7us": {
                         "account_number": 7586,
+                        "is_group": 1,
                         "Dons": {
-                            "account_number": 75861
+                            "account_number": 75861,
+                            "is_group": 0
                         },
                         "Lib\u00c3\u00a9ralit\u00c3\u00a9s": {
-                            "account_number": 75862
+                            "account_number": 75862,
+                            "is_group": 0
                         },
                         "Lots": {
-                            "account_number": 75863
+                            "account_number": 75863,
+                            "is_group": 0
                         }
                     },
                     "Autres produits non courants des exercices ant\u00c3\u00a9rieurs": {
-                        "account_number": 7588
+                        "account_number": 7588,
+                        "is_group": 0
                     }
                 }
             }
